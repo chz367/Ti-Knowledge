@@ -1,0 +1,135 @@
+﻿Gas-atomized Ti64 pre-alloy powder (Osaka Titanium Technologies, Osaka, Japan) with a spherical shape and TiB2 particles (KOJUNDO Chemical Laboratory) was employed as the starting raw material, as shown in Figure 1.
+Spherical Ti6Al4V powder with a grade of LaserForm Ti Grade 23 (A) provided by 3D Systems was used as the feedstock powder.
+The feedstock materials were supplied by Advanced Powders and Coatings Company and Baoji Xinnuo Net Metal Materials Company, respectively.
+The HDH titanium powders of 16–45μm (Beijing Xing Rong Yuan Technology Co. Ltd., China) were used as initial powders.
+HDH Ti powders, with a price of 40 USD/kg purchased from Beijing Xing Rong Yuan Tech. Co., Ltd. China, were used as the raw feedstock for treating.
+CP-Ti powder (Grade 2, supplied by TLS Technik GmbH, Germany) in this work was argon gas atomized and had a chemical composition as listed in Table 1.
+CP-Ti (Sulzer Metco Technologies Co. Ltd., Switzerland) powder was used in this study, which presents an almost spherical morphology with a mean particle size of 47 μm.
+The raw feedstock for fluidizing modification is irregular-shaped HDH-Ti powders which were purchased from Tech-long Metal Material Co., Ltd. P.R. China with a price of 40 USD/kg.
+Commercially available normal electrolytic copper powder, with average size of 25 μm and hydrogenation–dehydrogenation (HDH) Ti powder with 99.25% Ti including the impurity elements of 0.01 wt.% Fe, 0.04 wt.% Si, 0.04 wt.% Cl, 0.02 wt.% C, 0.03 wt.% N, 0.53 wt.% O and 0.08 wt.% H and a maximum particle size of less than 38 μm, were sourced from Gripm Advanced Materials Co., Ltd, the General Research Institute of Nonferrous Metals (Beijing).
+α-Al2O3 powder, with an average size of 150 nm, was supplied by Zhoushan Mingri Nano Materials Co., Ltd, Zhejiang Province.
+The shape modified Al2O3/Cu composite powder was molded by hot pressing, carried out using a HIGH-MULIT 5000 multifunctional sintering furnace produced by Fuji Airwaves Co. Ltd., Japan.
+Irregular-shaped HDH CP-Ti powders, purchased from Tech-long (Tianjin) Metal Material Co., Ltd. P.R. China with a price of 40 USD/kg, were used as the raw feedstock for modification.
+HDH Ti (Goodfellow Cambridge Ltd., UK) and Fe carbonyl powders (Sigma Aldrich Ltd., USA) were blended in a 95/5 wt ratio using a V mixer.
+HDH-Ti powder (average particle size: 35 μm, supplied by Central South University) was used in the powder modification.
+Gas atomized, spherical Ti powder (particle size: 15–45 μm) was purchased from the AP&C company (Canada) for comparative study.
+As shown in Fig. 1, the particles exhibit a nearly-spherical shape.
+The pores with spherical shape and a nearly smooth inner surface are observed under low scanning speed, as shown in Fig. 8a.
+"In this study, a method based on ball milling powder modification was proposed to convert low cost, non-spherical hydrogenated-dehydrogenated Ti (HDH-Ti) powder into spherical, printable Ti powder."
+"Several internal defects in the form of excessive pores and cracks are detected in the samples printed using the non-spherical HDH-Ti powder, giving rise to a relative density of ~98% (Fig. 2a)."
+"(a) Using a ballmilling based powder modification method, non-spherical powder was modified into a printable spherical HDH-Ti powder;"
+The spherical powders fabricated by these techniques, especially fine spherical powders used for SLM, are low yield and expensive.
+"Compared with spherical powders, hydride-dehydride (HDH) powders are characterized by low cost, less energy consumption, simple process and large-scale production."
+"Compared with the mechanical properties of mostly SLMfabricated CP-Ti produced from spherical powders, the tensile strength of SLM-fabricated CP-Ti in this study has a significant improvement, while the elongation decreases slightly."
+"The second type appeared in near-spherical shapes and originated from the bubbles trapped in the overlap zone of adjacent tracks."
+"Therefore, these bubbles were frozen in the tracks in spherical shapes and remained as pores in the final deposit."
+"Similar inter-tracks voids in various morphologies including the near-spherical shapes were reported by Stef et al. "
+The second type appeared in near-spherical shapes, which may be confused with keyhole induced pores.
+The PCS can convert irregularly shaped particles into spherical ones and allow the coating of fine particles on the surface of larger particles by the use of high speed rotary impact blades in a ring-shaped chamber.
+"The high speed blending allows the coating of small particles onto the surface of big particles and the spheroidizing of irregularly shaped powders."
+"Gas-atomized Ti64 pre-alloy powder (Osaka Titanium Technologies, Osaka, Japan) with a spherical shape and TiB2 particles (KOJUNDO Chemical Laboratory) was employed as the starting raw material, as shown in Figure 1."
+"Plasma atomized commercially pure titanium powder (Grade 1) with the size range below 100 µm and a spherical morphology was used for both LENS and SLM processing (Fig. 1). "
+" In this study, a method based on ball milling powder modification was proposed to convert low cost, non-spherical hydrogenated-dehydrogenated Ti (HDH-Ti) powder into spherical, printable Ti powder."
+"A comprehensive powder characteristic tester (PowderPro M1, BETTER, China) was used to characterize the flowability of the powder before and after ball milling. "
+"The HDH-Ti powder was modified via ball milling, with agate as the ball-mill material, a 3:1 ball-to-powder weight, a rotation speed of 120 rpm, and a ball milling duration of 4 h. "
+"Ti powder after ball milling was reduced: the D50 was reduced from 60.0 µm to 48.5 µm (Fig. 1a and e). "
+"This temperature is higher than the melting points of pure Ti (1950 K), Al (933 K), and V (2190 K); the melting point of the modified HDH-Ti powder can be slightly lowered due to the ball milling modification process."
+"Ball milling for powder modification is a routine laboratory technique, adding little additional cost to the approach developed."
+"The powder was gas atomized from a Ti-13Nb-13Zr ingot and had a chemical composition as listed in Table 1."
+"In this study, in order to improve its flowability, the HDH titanium powders were modified by the ball-milling process and then were used as the raw materials for SLM."
+"The powders were subjected to ball milling for 2–6 h by using the planetary ball milling machine. "
+"When the milling time extends to 6 h, the particles become flat due to more energy is transferred from the ball to the powder particles during the ball milling process (Fig. 1(d), arrow A)."
+"After ball milling and subsequent sieving, the average size of the powders, D50, nearly stays at the same level and is around 30 μm."
+"The ball milling treatment can effectively improve the flowability of HDH powders."
+" It is well known that ball milling can be used to modify the morphology of metal powders 14–16. "
+"The ball milling processing was conducted under high-purity argon atmosphere."
+"By employing the optimal parameters during SLM, the fabrication of strong and ductile Ti6Al4V alloys was achieved. "
+"AM technologies, such as selective laser melting (SLM), have been successfully employed to manufacture Ti6Al4V alloys with complex geometries. "
+"Heat treatment was also employed to improve the ductility of SLM-built Ti6Al4V yielding an elongation to failure of 14%, which was considerably higher than that built vis SLM (7.4%), while the tensile strength after heat treatment decreased to 840 ± 27 MPa."
+"In this work, a systematic investigation of system parameters, including laser power and scanning speed, on the mechanical properties of the SLM-built Ti6Al4V alloy was carried out."
+Process parameters used to evaluate the effect of laser power and scanning speed on mechanical performances of the SLM-built samples are summarized in Table 1.
+"The essential SLM additive manufacturing conditions for Ti–6Al–4V including layer thickness, focal offset distance and energy density, under which a near a0 martensitic structure forms in each layer and then in situ transforms into ultrafine lamellar (a + b) structures, were determined. "
+"This is the first funda mental effort that has realized complete in situ martensite decomposition in SLM-fabricated Ti–6Al–4V for outstanding mechanical properties."
+"Selective laser melting (SLM) is a powder-bed-based additive manufacturing (AM) technology [1–3]. "
+"This disqualifies the SLM-fabricated Ti–6Al–4V and, accordingly, post-SLM heat treatment is often applied for ductility improvement [3,9]."
+"The mechanical properties of the SLM-fabricated Ti–6Al–4V depend largely on its constituent phases and their morphology and characteristic length scales, as well as the size and orientation (texture) of the prior-b grains."
+"In view of the current standard SLM practice, which is conducted at powder-bed temperatures less than 230 C, the resulting microstructure often features columnar prior-b grains filled with acicular a0 martensite."
+"As a result, the SEBM-fabricated Ti–6Al–4V often exhibits better ductility than the SLM-fabricated Ti–6Al–4V, as well as improved isotropic mechanical behavior."
+"Selective laser melting (SLM) and laser engineered net shaping (LENS) are among the most commonly used additive manufacturing (AM) technologies. "
+"SLM is a powder-bed metal printing system which has been extensively applied for fabrication of various Ti-based materials with both simple and complex geometries."
+"It is important that SLM and LENS produced Ti parts are able to provide properties comparable or even better than those fabricated by conventional methods in order to ensure their performance reliability and to enable the direct replacement of conventionally manufactured parts. "
+"Generally, powder-bed AM technologies e.g., laser engineering net shaping (LENS), selective laser melting (SLM) and selective electron beam melting (SEBM), acquire spherical Ti powders as the feedstock for processing."
+"Emerging advanced manufacturing technologies such as selective laser melting (SLM) is providing an ideal platform for producing components with almost no geometric constraints and is economically feasible down to a batch size of one."
+"This study presents the results of using SLM to produce CP-Ti parts starting from powder with a wide grain size range up to 100 μm."
+"Accurate manipulation of SLM manufacturing parameters were applied to produce nearly full dense (499.5%) CP-Ti parts without any post-treatments."
+"Selective laser melting (SLM) is one of the newly developed additive manufacturing (AM) processes by which a product is built by melting selected areas of powder layers under a protective atmosphere, using a computer controlled laser beam."
+"Compared to conventional manufacturing techniques, SLM provides a broader range of advantages, namely rapid production of objects almost without geometric constraints, high material utilization rate and direct production based on CAD model."
+"Selective Laser Melting (SLM) or Direct Metal Laser Sintering (DMLS) is an additive manufacturing process based on powder bed fusion (PBF) and widely studied in recent years for the production of metallic parts, from pure Ti, Ti alloys, Al alloys, steels and so on."
+"However, actual knowledge on the SLM process remains insufficient and hinders its development on a larger scale."
+"A classification for the SLM process window was thus proposed."
+"Its application in SLM of Ti-6Al-4V provides substantive clarifications regarding both the 3D location of porosities with respect to the laser spot path and the mechanism of porosity formation."
+"Parts with a dimension of 90 × 6 × 23 mm were manufactured by SLM using the 3D Systems ProX DMP 100 equipment."
+"In this paper, the terms porosity, pore and void will be used to designate the same object i.e. the defects generated during SLM manufacturing."
+SLM can be seen as a very rapid solidification process.
+Tensile strength and ductility of Selective Laser Melting (SLM) processed commercially pure Ti (CP-Ti) were simultaneous enhanced by preforming the melting/solidification processes under Static Magnetic Field (SMF).
+"Selective laser melting (SLM) or laser powder-bed fusion (L-PBF), as a novel additive manufacturing (AM), has been given a promising future in the next industrial revolution."
+"Therefore, SLM process shows a great advantage in producing the part with extremely sophisticated morphology, such as porous lattice structures."
+"According to the advantages mentioned above, SLM is considered as an important technology to produce the bio-applied solid and porous titanium implants."
+"A commercial SLM 250 apparatus (MCPHEK Tooling GmbH, Germany) equipped with a Nd-YAG fiber laser (spot size, 40 μm and maximum power, 400 W) was employed."
+In-situ martensite decomposition was also found to be a potential method to achieve high yield strength and good elongation of failure through transforming the undesired martensitic structure into an ultrafine lamellar (α + β) structure.
+The HCP peaks observed on SLM-built samples can be attributed to both α and α′ phases
+The magnified microstructure of the SLM-built samples (Fig. 8b–d) possesses an amount of acicular α′ martensite, which has been reported as a consequence of rapid cooling inherent to the SLM process.
+Similar bright particles reported in the SLM-built Ti6Al4V alloys were characterized as the β phase, contributing positively to the mechanical performances of Ti6Al4V alloys.
+Where Hα′ is the hardness value of α′ phase (427 HV) and Hα represents the hardness value of α phase (300 HV).
+From this point of view, the high energy input leads to a high thermal gradient and high temperature magnitude, and thus results in a high cooling rate which contributes to the increasing of α′ phase.
+On the contrary, a small fraction of α′ phase is obtained as the consequence of relatively low energy input.
+Despite the presence of nano β particles shown in Fig. 9, there is no evident peak of β phase in the XRD result.
+In contrast, the SLM samples showed only martensitic α′ phase mainly with a lath-type morphology.
+Compression and hardness tests indicated that SLM titanium possesses better mechanical properties due to a fine grain size and martensitic phase composition, whereas LENS and cast titanium with α microstructures show similar mechanical properties.
+the as-built microstructure of the CP-Ti produced by SLM is consistent with the appearance of the martensitic α′ phase structure.
+ The variation in size and morphology of the martensitic phase observed can be linked to varying fast cooling rates across the sample during SLM processing.
+In addition, the martensitic α′ phase was not observed in the LENS samples.
+it appears that the LENS Ti sample is not subject to sufficiently high cooling rates necessary to form the martensitic phase.
+The microhardness of the SLM sample (225 Hv) is higher than the microhardness of the cast (209 Hv) and LENS (198 Hv) samples.
+Moreover, the hardness values observed in all samples are greater than the hardness value (160 Hv) reported previously for CP-Ti.
+The processing parameters for LENS and SLM were optimized in order to obtain highest densification which was at least 99.5%.
+In contrast, SLM showed only martensitic α' phase microstructure.
+The SLM sample shows a yield strength of 427 MPa which is higher than those of the LENS (395 MPa) and cast samples (408 MPa).
+This results in an ultimate compressive strength (σUCS) of 1046 MPa for the SLM sample, substantially higher than those of the cast (910 MPa) and LENS (880 MPa) at 50% strain deformation.
+ The LENS samples produced in our work show higher yield strength than previously reported LENS CP-Ti sample (368 MPa) without failure up to 50% deformation
+For the as-printed samples, the yield strength (σ0.2) and ultimate tensile strength (σb) are 1180 ± 10 MPa and 1300 ± 20 MPa, respectively.
+The elongation (1.9 ± 0.2%), however, is poor.
+It is thus reasonable to assume that the presence of β phase rarely contributes to the hardness values of the SLM-built Ti6Al4V alloys in this work.
+the particles exhibit a nearly-spherical shape.
+Non-optimal process parameters for Ti6Al4V alloys may result in insufficient melting of the powder particles and instabilities of the melt pool during the process.
+This leads to the formation of inner defects such as unmelted particles and spherical and/or sharp crack-like voids.
+the formation of the unmelted or partially melted particles as well as sharp crack-like voids is ascribed to insufficient energy input.
+ The factors
+that could be responsible for this are the presence of crack-like voids as well as unmelted particles resulting from insufficient energy input.
+By applying a gradually intensive laser power (Fig. 11a, except the case P1 with insufficient energy input), the ultimate tensile strength (UTS) increases slightly from 1094 MPa to 1158 MPa.
+The elongation to failure in this work is comparable to the value of the stress relieved or annealed samples, whilst the UTS remains high (~1200 MPa).
+UTS with 930 MPa and elongation to failure of 10%.
+UTS of 860 MPa with elongation to failure of 8%.
+The ultimate tensile strength of SLM-built Ti6Al4V alloy was measured as 1170 MPa.
+However, a weaker ultimate tensile strength of 840 MPa was seen in the HIP-treated specimens.
+In terms of the SLM-built Ti6Al4V alloys in this work, the uniform elongation under different scanning speeds stops at almost the same point (strain of ~9%) on the stress-strain curve.
+The balling effect is the formation of small particles and may result in the formation of discontinuous scan tracks.
+with corresponding tensile strengths of ~1083 ± 20 MPa and ~970 ± 15 MPa
+Moreover, the resultant Ti-6Al-4V possesses a tensile strength of ~1083 MPa and an elongation of 9%, at a cost of
+Improving the ductility of manufactured Ti-based alloys by selective laser melting (SLM) while still maintaining the high mechanical strength is one of the major challenges in additive manufacturing.
+In this work, a systematic investigation on the process parameters for achieving such a material is performed.
+By employing the optimal parameters during SLM, the fabrication of strong and ductile Ti6Al4V alloys was achieved.
+Through analysis of the microstructure and mechanical properties of the SLM-built Ti6Al4V alloy, it was found that the process parameters play an essential role in the tensile behavior, in particular the ductility of SLM-built Ti alloy.
+The considerable enhancement of the mechanical properties in our work is mainly attributed to the limitation of martensite formation and the minimization of pores.
+Ti-6Al-4V is the single most important Ti alloy, accounting for use in almost 60% of all the applications of Ti materials.
+Additive manufacturing (AM) offers design freedom with regard to Ti-6Al-4V for creation of high-quality, customized products.
+However, the large-scale development of this technology is constrained by the high raw material costs.
+In this study, a method based on ball milling powder modification was proposed to convert low cost, non-spherical hydrogenated-dehydrogenated Ti (HDH-Ti) powder into spherical, printable Ti powder.
+Following mechanical mixing, the ball-milled HDH-Ti powder was further blended with elemental powders of aluminum and vanadium to develop low-cost HDH Ti-6Al-4V.
+Simultaneously, the issue pertaining to high oxygen associated with HDH Ti-6Al-4V was addressed via introduction of yttrium.
+A cost-affordable, high-performance AM Ti-6Al-4V alloy was finally developed via laser-based powder bed fusion of metals (PBF-LB/M) after printing parameter optimization and heat treatment.
+The AM-prepared Ti-6Al-4V demonstrated a relative density of 99.3%, an ultimate tensile strength of ~1083 MPa, and an elongation of 9%, comparable to those obtained using costly pre-alloyed powders.
+Further, numerical simulation and detailed microstructural characterization were performed to reveal the underlying mechanism.
+Powder modification, compositional modulation, and laser in-situ alloying were the three essentials techniques used as part of this approach for optimizing the mechanical properties of the Ti-6Al-4V alloy.
+Overall, this method demonstrates excellent potential in terms of mitigating the high cost.
+Moreover, it may further promote research on AM of a variety of Ti alloys besides Ti-6Al-4V.
