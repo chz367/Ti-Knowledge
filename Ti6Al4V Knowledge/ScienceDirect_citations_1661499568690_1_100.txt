@@ -1,0 +1,1194 @@
+Nicholas Derimow, Jake T. Benzing, Keenan Hanson, Nikolas Hrabe,
+Globular surface layer in electron beam powder-bed fusion Ti-6Al-4V after standard powder removal blasting and hot isostatic pressing,
+Materials Letters,
+Volume 324,
+2022,
+132715,
+ISSN 0167-577X,
+https://doi.org/10.1016/j.matlet.2022.132715.
+(https://www.sciencedirect.com/science/article/pii/S0167577X22010680)
+Abstract: A globular α recrystallization has been discovered at the surface of net shape electron beam powder-bed fusion (PBF-EB) Ti-6Al-4V alloy parts. This recrystallization is the result of powder recovery blasting followed by hot isostatic pressing treatment (HIP), which mimics the thermomechanical treatment necessary to achieve globularization in wrought Ti-6Al-4V. The thickness of the globular surface α is variable depending on the blasting intensity as well as the presence of surface protrusions that block the line-of-sight of the blasting media. The globular layer contains a 0001 orientation relationship parallel to the blasting direction, plus a low intragranular orientation deviation, when compared to the bulk. The results indicate that this globular α at the surface may be present for all net-shape Ti-6Al-4V components that have been manufactured via PBF-EB and subjected to a HIP treatment. Tunable fatigue and wear performance may be possible through controlled blasting parameters and globular surface layer thickness.
+Keywords: Additive manufacturing; Ti-6Al-4V; Powder recovery; Recrystallization; Hot isostatic pressing
+
+Alec I. Saville, Jake T. Benzing, Sven C. Vogel, Jessica Buckner, Collin Donohoue, Andrew B. Kustas, Adam Creuziger, Kester D. Clarke, Amy J. Clarke,
+Schmid factor crack propagation and tracking crystallographic texture markers of microstructural condition in direct energy deposition additive manufacturing of Ti-6Al-4V,
+Additive Manufacturing,
+Volume 58,
+2022,
+103023,
+ISSN 2214-8604,
+https://doi.org/10.1016/j.addma.2022.103023.
+(https://www.sciencedirect.com/science/article/pii/S2214860422004158)
+Abstract: Metallic additive manufacturing (AM) provides a customizable and tailorable manufacturing process for new engineering designs and technologies. The greatest challenge currently facing metallic AM is maintaining control of microstructural evolution during solidification and any solid state phase transformations during the build process. Ti-6Al-4V has been extensively surveyed in this regard, with the potential solid state and solidification microstructures explored at length. This work evaluates the applicability of previously determined crystallographic markers of microstructural condition observed in electron beam melting powder bed fusion (PBF-EB) builds of Ti-6Al-4V in a directed energy deposition (DED) build process. The aim of this effort is to elucidate whether or not these specific crystallographic textures are useful tools for indicating microstructural conditions in AM variants beyond PBF-EB. Parent β-Ti grain size was determined to be directly related to α-Ti textures in the DED build process, and the solid state microstructural condition could be inferred from the intensity of specific α-Ti orientations. Qualitative trends on the as-solidified β-Ti grain size were also determined to be related to the presence of a fiber texture, and proposed as a marker for as-solidified grain size in any cubic metal melted by AM. Analysis of the DED Ti-6Al-4V build also demonstrated a near complete fracture of the build volume, suspected to originate from accumulated thermal stresses in the solid state. Crack propagation was found to only appreciably occur in regions of slow cooling with large α+β colonies. Schmid factors for the basal and prismatic α-Ti systems explained the observed crack pathway, including slower bifurcation in colonies with lower Schmid factors of both slip systems. Colony morphologies and localized equiaxed β-Ti solidification were also found to originate from build pauses during production and uneven heating of the build edges during deposition. Tailoring of DED Ti-6Al-4V microstructures with the insight gained here is proposed, along with cautionary insight on preventing unplanned build pauses to maintain an informed and controlled thermal environment for microstructural control.
+Keywords: Ti-6Al-4V; Directed energy deposition; Crystallographic texture; Solidification; Cracking
+
+Jinlong Su, Haiming Xie, Chaolin Tan, Zili Xu, Jin Liu, Fulin Jiang, Jie Tang, Dingfa Fu, Hui Zhang, Jie Teng,
+Microstructural characteristics and tribological behavior of an additively manufactured Ti-6Al-4V alloy under direct aging and solution-aging treatments,
+Tribology International,
+Volume 175,
+2022,
+107763,
+ISSN 0301-679X,
+https://doi.org/10.1016/j.triboint.2022.107763.
+(https://www.sciencedirect.com/science/article/pii/S0301679X2200336X)
+Abstract: Direct aging and solution-aging treatments were implemented on a laser powder bed fusion-processed Ti-6Al-4V alloy to enhance its tribological performance. Dry sliding wear tests over a wide range of normal loads (2.5–40 N) and sliding velocities (50–800 rpm) were employed to investigate their comprehensive wear behavior. The results indicate that high-density Ti3Al precipitates were formed, and the decomposition of α'→α + β occurred during the aging treatments. A higher aging-hardening response of the studied alloy was achieved after the β solution treatment relative to the as-built state. The worn morphologies and wear mechanisms depend significantly on the microstructural characteristics, applied loads, and sliding velocities.
+Keywords: Titanium alloy; Tribological behavior; Heat treatment; Additive manufacturing
+
+Hye-Ri Cho, Han-Cheol Choe,
+Nanotube formation of Ti-6Al-4V alloy and its corrosion behavior,
+Thin Solid Films,
+Volume 751,
+2022,
+139216,
+ISSN 0040-6090,
+https://doi.org/10.1016/j.tsf.2022.139216.
+(https://www.sciencedirect.com/science/article/pii/S0040609022001328)
+Abstract: In this study, the nanotube formation and corrosion behavior of Ti-6Al-4V alloy with α- and β-phases were researched with various experimental instruments. For this study, nanotube formation on the sample was performed using the anodic oxidation method by applying a voltage of 30 V using a direct current power supply for 1 h using a 1.0 M H3PO4 + 0.8 wt.% NaF solution at 25 °C. The corrosion properties of specimens were examined by potentiodynamic testing (potential range of -1000–1500 mV) in a 0.9% NaCl solution using a potentiostat. The nanotube morphology of the alloys was observed by field-emission scanning electron microscopy, X-ray diffractometry, and energy dispersive X-ray spectroscopy. The nanotubes in the α-phase were uniformly formed on the surface of the Ti-6Al-4V alloy, but nanotubes in the β-phase were irregularly formed. The nanotube-formed alloy had a wider passivation range and higher corrosion current density than the bulk alloy. The morphologies of the corrosion surfaces show that the edge trace around the β-phase was reduced, and the anatase phase increased on the corroded surface. In cross-sectioned nanotube layer after corrosion test, a deep pit was observed in the part where the nanotubes were removed. XRD analysis showed that the anatase and rutile phases were not formed in bulk alloys, but anatase and rutile phases were detected in the nanotube formed alloy, and the peak of the anatase increased on the corroded surface. From the result of potentiostatic test, the variation of current density from the beginning is almost the same, but the current density of the nanotube formed surface was slightly higher than that of non-nanotube formed surface with time.
+Keywords: Ti-6Al-4V alloy; Nanotube; Corrosion; α- phase; β- phase; Potentiodynamic testing
+
+Taeheon Kim, Jae-Won Lim,
+Surface characterization of Ti and Ti–6Al–4V alloy by Ca vapor deoxidation: Relation between surface morphology and deoxidation reaction,
+Applied Surface Science,
+Volume 590,
+2022,
+153098,
+ISSN 0169-4332,
+https://doi.org/10.1016/j.apsusc.2022.153098.
+(https://www.sciencedirect.com/science/article/pii/S016943322200664X)
+Abstract: Ca vapor deoxidation—which involves controlling oxygen through deoxidation on the surface of Ti—is important to ensure the quality of Ti and its alloys. We systematically investigated various surface properties before and after Ca vapor deoxidation of bulk Ti and Ti–6Al–4V alloy with small specific surface areas. The relationship between surface characteristics and deoxidation is discussed. The oxygen concentrations of Ti and Ti–6Al–4V decreased to 555 and 565 ppm, respectively, upon Ca vapor deoxidation. Moreover, the surface roughness increased, the surface oxide layer was slightly thinned, and the oxygen content of the matrix decreased. The surface chemical states of Ti before and after the deoxidation were mainly the tetravalent oxidation state (TiO2) and metallic state toward the inside. The deoxidation produced a Ca oxide layer on the surfaces of Ti and Ti–6Al–4V and increased the surface roughness by creating craters on the surface. The deoxidation reactions included heterogeneous Ca/CaO nucleation and growth on the Ti surface, resulting in localized oxygen diffusion. Craters were formed on the surfaces of Ti and Ti–6Al–4V owing to the Ca oxide layer. Local oxygen diffusion and reactions with Ti and Al components enlarged the craters.
+Keywords: Titanium; Ti–6Al–4V; Deoxidation; Calcium; Surface; Oxide layer
+
+Meryem Şahin, Fatma Ünalan, İlven Mutlu,
+Corrosion, ion release, and surface hardness of Ti-6Al-4V and cobalt-chromium alloys produced by CAD-CAM milling and laser sintering,
+The Journal of Prosthetic Dentistry,
+2022,
+,
+ISSN 0022-3913,
+https://doi.org/10.1016/j.prosdent.2022.06.011.
+(https://www.sciencedirect.com/science/article/pii/S0022391322004188)
+Abstract: Statement of problem How the corrosion properties of cobalt-chromium (Co-Cr) and Ti (Ti-6Al-4V) alloys, frequently used in dental prostheses, are affected by different production methods is unclear. Purpose: The purpose of this in vitro study was to compare Co-Cr and Ti-6Al-4V alloys produced by computer-aided design and computer-aided manufacturing (CAD-CAM) milling or laser sintering in terms of corrosion, ion release, and surface hardness. Material and methods: Co-Cr and Ti-6Al-4V specimens were produced by CAD-CAM milling and direct metal laser sintering/selective laser sintering techniques. Testing included Vickers hardness and then open circuit potential (OCP), Tafel extrapolation, and static immersion to determine the corrosion behavior. The study used an inductively coupled plasma mass spectrometer to measure ion release. The data were analyzed by using the Kruskal-Wallis and Mann-Whitney U tests, with Bonferroni correction (α=.05). Results: The Ti-6Al-4V laser-sintered group showed the highest Vickers hardness value (P<.008), the lowest OCP value (P<.008), and the lowest corrosion potential (Vcorr) value (P<.008). The corrosion current density (Icorr) level of the Co-Cr CAD-CAM milling group was statistically significantly lower than that of the Ti-6Al-4V CAD-CAM milling and the Ti-6Al-4V laser-sintered groups (P<.008). The highest weight change was observed in the Ti-6Al-4V laser-sintered group. The Co, Cr, and Ti ion emissions were higher in specimens produced by laser sintering (P<.05), and no statistically significant difference in terms of Al and V oscillations was found among the groups (P>.05). Conclusions: Ti-6Al-4V alloys may be a good alternative for patients with Co-Cr allergies, but as per the results of this study, Co-Cr still seems more suitable for clinical use.
+
+Shichao Jian, Jiangxiong Wang, Dan Xu, Rui Ma, Chaowen Huang, Min Lei, Dan Liu, Mingpan Wan,
+Gradient microstructure and mechanical properties of Ti-6Al-4V titanium alloy fabricated by high-frequency induction quenching treatment,
+Materials & Design,
+Volume 222,
+2022,
+111031,
+ISSN 0264-1275,
+https://doi.org/10.1016/j.matdes.2022.111031.
+(https://www.sciencedirect.com/science/article/pii/S0264127522006530)
+Abstract: A gradient microstructure was successfully fabricated by high-frequency induction quenching treatment (HFIQT) to improve the mechanical behavior of Ti-6Al-4V alloy in this work. Microstructural evolution was systematically characterized by electron backscattered diffraction and transmission electron microscopy. The results showed that the gradient microstructure of the alloy after HFIQT and aging varied from a fine αs lamellae decomposed from α′-martensite at the surface layer to a bimodal microstructure at the center. Moreover, the alloy with gradient microstructure presents an optimal strength-ductility synergy. The tensile test results showed that a best strength plastic product UT of 12433.1 MPa·%, an ultimate strength of 1231 MPa and an elongation of 10.1 % were obtained after HFIQT for 5.2 s and aging at 400 °C for 6 h. The tensile strength of the alloy aged at 400 °C markedly increased with the increase in soaking time from 5.1 to 5.3 s during HFIQT. Meanwhile, the tensile strength of the alloy slightly increased with the decrease in aging temperature from 550 to 400 °C during HFIQT. Surprisingly, the elongation of the alloy also increased with decreasing aging temperature. The effects of the gradient microstructure characteristic on strength and ductility of the Ti-6Al-4V alloy were discussed.
+Keywords: Gradient microstructure; Ti-6Al-4V alloy; High-frequency induction quenching treatment (HFIQT); Mechanical properties
+
+Yahya Hışman Çelik, Şehmus Fidan,
+Analysis of cutting parameters on tool wear in turning of Ti-6Al-4V alloy by multiple linear regression and genetic expression programming methods,
+Measurement,
+Volume 200,
+2022,
+111638,
+ISSN 0263-2241,
+https://doi.org/10.1016/j.measurement.2022.111638.
+(https://www.sciencedirect.com/science/article/pii/S026322412200848X)
+Abstract: Titanium alloys are materials difficult to machine due to their excellent characteristics. In the machining process of these alloy materials, it is critical to determine the important coefficient cutting parameters such as depth of cut (ap), cutting speed (Vc), feed rate (fr), and cutting length (Lc) on tool wear (VB), and to simplify them by creating a mathematical expression. The effects of cutting parameters on VB were explored experimentally, in this study, by turning the Ti-6Al-4V alloy at various cutting parameters. Multiple linear regression (MLR) and Genetic Expression Programming (GEP) methods were used to examine the acquired data. The mathematical expression derived from GEP was simplified. Increasing the cutting parameter values resulted in an increase in VB. The analyses revealed that the parameter of Vc had a considerable impact on VB. The best performance (R2) from MLR analyzes was determined as 0.705. This performance was computed as 0.896 in stepwise MLR (SMLR) and 0.96 in GEP. The performance value was found to be 0.911 by simplifying the mathematical expression derived from GEP. It was observed that the analysis of parameter values of ap, Vc, fr and Lc on estimation performance of VB with the proposed GEP method was appropriate.
+Keywords: Genetic Expression Programming; Multiple Linear Regression; Ti-6Al-4V; Tool Wear; Turning
+
+Sammy A. Ojo, Sulochana Shrestha, K. Manigandan, Gregory N. Morscher, Andrew L. Gyekenyesi, Onome E. Scott-Emuakpor,
+Application of small geometry specimens to determine the fatigue crack growth anisotropy of Ti–6Al–4V additively manufactured for repair,
+Results in Materials,
+Volume 15,
+2022,
+100309,
+ISSN 2590-048X,
+https://doi.org/10.1016/j.rinma.2022.100309.
+(https://www.sciencedirect.com/science/article/pii/S2590048X22000577)
+Abstract: Titanium alloys are key materials for aerospace and turbine industries. Direct energy deposition (DED) is one additive manufacturing method of interest for titanium alloy repair technology. One notable feature of directed energy deposition (DED) technique is the anisotropy of the microstructure due to the build directions and local heating during layer-by-layer formations. To explore the anisotropy in fatigue crack growth (FCG) properties, single-notched, compact specimens were cut and machined from thin “repaired coupon”, i.e., half AM and half wrought Ti–6Al–4V coupon, perpendicular and parallel to the build layers; the geometry was smaller than that required by standard crack growth testing procedures. Using these small coupons, fracture properties were attained for crack growth in either parallel or perpendicular directions with respect to the build layers. Direct current potential drop (DCPD) was utilized to monitor and measured crack length during fatigue. Optical and scanning electron microscopy was performed to investigate the failure mechanisms and microstructural morphology of polished cross-section and fractured surfaces, respectively. The results show that the crack growth direction parallel to the build layer (perpendicular to the build direction) had lower FCG resistance compared to crack growth direction perpendicular to the build layer (parallel to the build direction). The difference in the FCG rate is attributed to the microstructural features and the materials growth directions. Therefore, these clearly findings show that microstructure characteristics have strong influence on fatigue crack growth behavior in both directions of growth as observed in this study.
+Keywords: Titanium alloys; Directed energy deposition; Anisotropy; Fatigue crack growth; Microstructure; Direct current potential drop
+
+Archana Rajendran, Deepak K. Pattanayak,
+Bioactive and antimicrobial macro-/micro-nanoporous selective laser melted Ti–6Al–4V alloy for biomedical applications,
+Heliyon,
+Volume 8, Issue 3,
+2022,
+e09122,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2022.e09122.
+(https://www.sciencedirect.com/science/article/pii/S2405844022004108)
+Abstract: Metal Additive Manufacturing (AM) technology is an emerging technology in biomedical field due to its unique ability to manufacture customized implants [Patients-specific Implants (PSIs)] replicating the complex bone structure from the relevant metal powders. PSIs could be developed through any AM technology, but the ultimate challenge lies in integrating the metallic implant with the living bone. Considering this aspect, in the present study, Ti alloy (Ti–6Al–4V) powder has been used to fabricate scaffolds of channel type macropores with 0–60% porosity using selective laser melting (SLM) and subsequent post-treatments paving way for surface microporosities. Surface chemical and subsequent heat treatments were carried out on thus developed Ti alloy scaffolds to improve its bioactivity, antibacterial activity and osteoblastic cell compatibility. NaOH and subsequent Ca(NO3)2/AgNO3 treatment induced the formation of a nanoporous network structure decorated with Ca–Ag ions. Ag nanoparticles covering the entire scaffold provided antibacterial activity and the presence of Ca2+ ions with anatase TiO2 layer further improved the bioactivity and osteoblastic cell compatibility of the scaffold. Therefore, SLM technology combined with heat treatment and surface modification could be effectively utilized to create macro-micro-nano structure scaffolds of Ti alloy that are bioactive, antibacterial, and cytocompatible.
+Keywords: Selective laser melting; Ti–6Al–4V alloy powder; Patient-specific implants; Bioactivity; Antibacterial activity; Osteoblastic cell compatibility
+
+Hang Lv, Zhenlin Zhang, Yarong Chen, Yan Liu, Hui Chen, Yong Chen, Jing Cheng, Jian She, Huabing He, Jintao Chen,
+The anisotropy of high cycle fatigue property and fatigue crack growth behavior of Ti–6Al–4V alloy fabricated by high-power laser metal deposition,
+Materials Science and Engineering: A,
+Volume 853,
+2022,
+143745,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2022.143745.
+(https://www.sciencedirect.com/science/article/pii/S0921509322011285)
+Abstract: In the present work, several large Ti–6Al–4V blocks were successfully fabricated by high-power laser metal deposition (HP-LMD). The high cycle fatigue (HCF) property and fatigue crack growth (FCG) behavior of the as-build Ti–6Al–4V alloy were investigated from two sampling directions (horizontal and vertical). The results showed that the fatigue limit of horizontal and vertical specimens was 357.5 MPa and 358.57 MPa, respectively. However, the HCF performance of vertical specimens was superior to horizontal specimen under a high-stress level. In addition, the HCF performance of both horizontal and vertical specimens was inferior to the wrought Ti–6Al–4V. Meanwhile, the FCG rate of vertical specimen was lower than that of horizontal specimen in both near-threshold region and Paris region. The anisotropic microstructure (prior β columnar grains with preferential orientation and α colonies) was found to be the main reason that contributed to an anisotropic HCF property and FCG behavior. For horizontal specimen, the fatigue crack interacted with only one or two columnar grains, thus leading to a lower FCG resistance. For vertical specimen, the fatigue crack interacted with multiple columnar grains, which led to a better plasticity and enhanced FCG resistance.
+Keywords: Titanium alloy; Additive manufacturing; Anisotropy; High cycle fatigue; Fatigue crack growth
+
+Benjamin Guennec, Amine Hattal, Azziz Hocini, Kamilla Mukhtarova, Takahiro Kinoshita, Noriyo Horikawa, Jenő Gubicza, Madjid Djemaï, Guy Dirras,
+Fatigue performance of zirconia-reinforced Ti-6Al-4V nanocomposite processed by laser powder bed fusion: An improvement by hot isostatic pressing,
+International Journal of Fatigue,
+Volume 164,
+2022,
+107129,
+ISSN 0142-1123,
+https://doi.org/10.1016/j.ijfatigue.2022.107129.
+(https://www.sciencedirect.com/science/article/pii/S0142112322003851)
+Abstract: For the first time, four-point bending fatigue behavior of a Ti-6Al-4V alloy reinforced with 1 wt% nano-yttria-stabilized zirconia and processed by laser powder bed fusion was investigated. In a quest for clarification on the effect of the hot isostatic pressing (HIP) on the fatigue outcomes, both untreated and HIPed specimens were studied. The former material indicated relatively modest fatigue resistance mainly due to the presence of inherent processing defects, whereas the latter one revealed a promising fatigue strength in comparison with unreinforced Ti-6Al-4V and exhibited transgranular fatigue crack nucleation provoked by the crystallographic slip in long-length layers of α grain.
+Keywords: High cycle fatigue; Metal Matrix Composites; Titanium alloy; Additive manufacturing; Hot isostatic pressing
+
+J.M. Alegre, A. Díaz, R. García, L.B. Peral, I.I. Cuesta,
+Effect of HIP post-processing at 850 °C/200 MPa in the fatigue behavior of Ti-6Al-4V alloy fabricated by Selective Laser Melting,
+International Journal of Fatigue,
+Volume 163,
+2022,
+107097,
+ISSN 0142-1123,
+https://doi.org/10.1016/j.ijfatigue.2022.107097.
+(https://www.sciencedirect.com/science/article/pii/S0142112322003577)
+Abstract: Hot Isostatic Pressing(HIP) is a thermomechanical post-processing technique widely used in Additive Manufacturing parts to reduce internal defects, such as entrapped-gas-pores or lack-of-fusion, which have a great influence on the mechanical and fatigue properties of the material. In this paper, the effect of a non-conventional HIP-cycle on the fatigue behavior of a Ti-6Al-4V alloy manufactured by Selective Laser melting (SLM) is studied. The HIP-cycle examined in this study is carried out at pressure of 200 MPa and a temperature of 850 °C for 2 h. Moreover, the cooling process is faster than that obtained from conventional furnace cooling rates, with the aim to limit the microstructural coarsening effects that affect the fatigue behavior. For the study, an extensive experimental fatigue program was carried out which included a first batch of SLM specimens tested under as-built conditions, a second batch of SLM specimens subjected to the present HIP process, and a third batch of specimens of a reference wrought processed material obtained by rolling and annealing processes. The microstructure of the material, before and after HIPping, is analyzed and a fractographic analysis is carried out to study the mechanism of crack initiation and its relation to the fatigue behavior. The results show that the present HIP-process allows for very good material densification, a microstructure that shows minimal coarsening effects, and good fatigue properties comparable to the conventional wrought processed material.
+Keywords: Ti-6Al-4V; Hot isostatic pressing; Selective Laser Melting; Fatigue behavior; Microstructure
+
+Jay Airao, Chandrakant K. Nirala, Rachele Bertolini, Grzegorz M. Krolczyk, Navneet Khanna,
+Sustainable cooling strategies to reduce tool wear, power consumption and surface roughness during ultrasonic assisted turning of Ti-6Al-4V,
+Tribology International,
+Volume 169,
+2022,
+107494,
+ISSN 0301-679X,
+https://doi.org/10.1016/j.triboint.2022.107494.
+(https://www.sciencedirect.com/science/article/pii/S0301679X22000676)
+Abstract: Issues related to the machinability of difficult-to-machine materials such as Titanium and Nickel base superalloys are well explicated in the literature. In this regard, a novel study, applying ultrasonic vibration along with MQL and LCO2, is proposed to enhance the machinability of Ti-6Al-4V. In this regard, this article attempts to analyze machinability of Ti-6Al-4V in conventional and Ultrasonic Assisted Turning (UAT) under dry, wet, MQL and LCO2. The experiments are performed on an in-house developed ultrasonic assisted turning setup, keeping all the machining parameters constant. The main tool wear mechanisms observed are diffusion, adhesion, abrasion, and built-up edge formation in both cutting strategies. Moreover, the LCO2 and ultrasonic vibration significantly reduce specific cutting energy without compromising the surface roughness and tool life. Ultimately, the LCO2, along with ultrasonic assisted turning, promotes sustainability in the machining of Ti-6Al-4V.
+Keywords: Ti-6Al-4V; Tool wear; Sustainable cooling strategies; Ultrasonic assisted turning; MQL; LCO2
+
+S. Deb, A. Muraleedharan, R.J. Immanuel, S.K. Panigrahi, G. Racineux, S. Marya,
+Establishing flow stress behaviour of Ti-6Al-4V alloy and development of constitutive models using Johnson-Cook method and Artificial Neural Network for quasi-static and dynamic loading,
+Theoretical and Applied Fracture Mechanics,
+Volume 119,
+2022,
+103338,
+ISSN 0167-8442,
+https://doi.org/10.1016/j.tafmec.2022.103338.
+(https://www.sciencedirect.com/science/article/pii/S0167844222000891)
+Abstract: Ti-6Al-4V alloy is one of the most widely used material in both research as well as in commercial industries at present due to its high strength-to-weight ratio, low density and excellent high-temperature properties. Understanding the behaviour of this alloy at various deformation conditions (strain, strain rate and temperature) is crucial to fit the material in demanding applications. In our present work, the mechanical behaviour of α + β dual phase Ti-6Al-4V alloy is studied in the temperature ranging from 25 ℃ to 200 ℃ and rate of deformation ranging from 10-3 s−1 to 104 s−1. Tensile tests were done using uniaxial tensile tester for quasi-static range of deformation and Split-Hopkinson bar machine for dynamic range of deformation. Post deformation fracture surface analysis were carried out to understand the effects of strain rate and temperature variations on the deformation behaviour, and to establish a structure–property correlation. For the studied range of deformation parameters, constitutive models are developed. As Johnson-Cook model is one of the widely used model in various numerical analysis software, a modified Johnson-Cook model has been developed for the alloy. Moreover, artificial intelligence (AI) is found to be an efficient tool these days to solve complex problems in various fields of engineering. An attempt is also made in this study to develop an artificial neural network (ANN) framework for the prediction of flow stress at various deformation condition for Ti-6Al-4V alloy. Our study revealed that the AI based ANN technique is more efficient in calculating the flow stress as compared with the traditional Johnson-Cook model.
+Keywords: Ti-6Al-4V; Quasi-static tensile test; Direct impact Hopkinson Bar; Johnson-Cook model; Artificial Neural Network; Constitutive model
+
+S. Vazirian, A. Farzadi, A. Solouk,
+Joining dental biomaterials of Ti-6Al-4V alloy and cp-Ti using transient liquid phase bonding: Metallurgical and mechanical assessment,
+Materials Today Communications,
+Volume 32,
+2022,
+103981,
+ISSN 2352-4928,
+https://doi.org/10.1016/j.mtcomm.2022.103981.
+(https://www.sciencedirect.com/science/article/pii/S2352492822008352)
+Abstract: The choice of manufacturing process plays a vital role in producing a medical device with a few problems; one of the best manufacturing processes for achieving superior physical and mechanical properties is transient liquid phase (TLP) bonding. The effect of bonding time in the range of 5–45 min on the microstructural and mechanical characterizations of the joint by an ultra-thin Cu interlayer with a thickness of 10 µm was investigated. The results revealed that the dominant phase is Ti2Cu intermetallic compound (IMCs) in the joint zone in all samples. It was shown that intensive metallurgical reactions happened at the interface of cp-Ti/Cu/Ti-6Al-4V, and the joint zone involves Ti2Cu IMCs. By increasing the holding time, Ti2Cu is decomposed, and finally, the joint consists of tiny Ti2Cu in α-Ti matrix. Shear tests indicated that the homogenized joint bonded at a prolonged time exhibits better mechanical properties than those at a prolonged low time. The minimum and maximum shear strength were achieved in the quantity of 175 and 384 MPa at 5 and 45 min, respectively. The hardest zone in the samples of 5 and 45 min was the reaction zone and the diffusion-affected zone (DAZ) of Ti-6Al-4V, respectively. By the increase in the holding time, the failure mode changed from cleavage to semi-cleavage, and the fracture path was altered from the reaction zone to the DAZ of Ti-6Al-4V zone, originating from the reduction of IMCs in the joint center.
+Keywords: Diffusion brazing; Commercially pure titanium; Bonding time; Intermetallic compound; Mechanical behavior; Titanium grade 2
+
+Jincheng Li, Yue He, Wei Shi, Song Xiang, Wei Gao,
+Different passivation behavior between α and β phases of Ti-6Al-4V in HCl solutions under oxygenated/deoxygenated conditions,
+Applied Surface Science,
+Volume 604,
+2022,
+154539,
+ISSN 0169-4332,
+https://doi.org/10.1016/j.apsusc.2022.154539.
+(https://www.sciencedirect.com/science/article/pii/S0169433222020712)
+Abstract: The passivation behavior of the α and β phases in a Ti-6Al-4V alloy under different oxygen conditions was investigated. The α and β phases exhibit a stronger tendency toward galvanic corrosion under deoxygenated conditions, but not under oxygenated conditions. From in situ scanning Kelvin probe force microscopy (SKPFM) method we find the α oxidation rate is higher. Meanwhile, the passive film composition and structure of α's and β's were compared by using FIB-STEM. The α phase has a lower Al/V element concentration and more atoms in the matrix to participate in the annihilation reaction of metal vacancies. Furthermore, based on first principles and statistical mechanics, the alloying element Al/V alters the Ti atoms coordination environment and reduces the Ti atoms adsorption potential.
+Keywords: Dissolved oxygen; Titanium alloy; SKPFM; Galvanic corrosion; First-principles calculation
+
+Zhandong Wang, Shibin Wang, Kun Yang, Mingzhi Chen, Kedong Bi, Zhonghua Ni, Guifang Sun,
+In-situ SEM investigation on the fatigue behavior of Ti–6Al–4V ELI fabricated by the powder-blown underwater directed energy deposition technique,
+Materials Science and Engineering: A,
+Volume 838,
+2022,
+142783,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2022.142783.
+(https://www.sciencedirect.com/science/article/pii/S0921509322001915)
+Abstract: Underwater directed energy deposition (UDED) is a promising technology for on-site maintenance and repair of Ti–6Al–4V alloy. The microstructurally short fatigue crack initiation and growth behaviors of Ti–6Al–4V repaired by UDED were investigated through in-situ SEM fatigue testing. The results were compared with those of the Ti–6Al–4V repaired by in-air directed energy deposition (DED) and a substrate. The experimental results show that the microstructure of the Ti–6Al–4V repaired by UDED was dominated by α′ martensite. The α′ martensite in the Ti–6Al–4V repaired by in-air DED decomposed into α+β due to the intrinsic heat treatment. Both the strength and microhardness of the Ti–6Al–4V repaired by UDED were higher than those of the Ti–6Al–4V repaired by in-air DED. Compared with the Ti–6Al–4V repaired by in-air DED, the Ti–6Al–4V repaired by UDED presented a short micro crack initiation time and a poor fatigue crack propagation resistance. The short fatigue crack initiation and propagation behaviors of the as-deposited Ti–6Al–4V were primarily controlled by the structures and morphologies of the microstructures rather than the residual stresses. In addition, the prior-β boundaries in the Ti–6Al–4V repaired by UDED had a resistance effect on the fatigue crack growth rate. However, the resistant effect of prior-β boundaries in the Ti–6Al–4V repaired by in-air DED was not obvious and the local colony α+β played a dominant role in the resistance of short fatigue crack propagation.
+Keywords: Underwater directed energy deposition; Titanium alloys; In-situ SEM; Microstructure; Fatigue crack growth
+
+W.J. Choi, M.J. Kulak, C. Kim, E.J. Payton, C. Rudolf, W. Kang,
+Electro-thermo-mechanical characterization of microscale Ti-6Al-4V wires using an innovative experimental method,
+Materials Characterization,
+Volume 188,
+2022,
+111927,
+ISSN 1044-5803,
+https://doi.org/10.1016/j.matchar.2022.111927.
+(https://www.sciencedirect.com/science/article/pii/S1044580322002091)
+Abstract: The deformation behavior of Ti-6Al-4V (at.%) wires under direct electric current was investigated. To minimize thermal effects due to Joule heating on plastic deformation, fine Ti-6Al-4V wires with 100 μm diameter were tested by developing and utilizing an innovative electro-thermo-mechanical tensile tester. The force-controlled tensile tester consists of an electronic balance, piezo actuator, optical camera, infrared thermometer, and electric power supply. To characterize the state of Joule heating in the fine wire, the temperatures at the wire and load frame junction were measured with a non-contact infrared thermometer and then a finite element analysis was conducted using the measured temperatures as boundary conditions. For validation of our experimental approach, we have carried out uniaxial tensile testing of Ti-6Al-4V wires under 0, 10, and 20 A/mm2 current densities, respectively, and the results were compared with previous reported values. In our specimen, the change of mechanical properties including the reduction of elastic modulus and strength and the increase of ductility and failure strain was observed with increasing the applied current. However, the level of change was not severe compared to other research. It could therefore be concluded that the thermal effect was minimized by using fine Ti-6Al-4V wires with a large surface-to-volume ratio. In the analysis of fracture surface, the transition from brittle to ductile fracture mode was clearly observed with increasing current density.
+Keywords: Electrically-assisted deformation (EAD); Ti-6Al-4V; Electro-thermo-mechanical tensile test; Electroplasticity
+
+Kai Ni, Ming-Hsiang Ku, Yu-Jen Tseng, Hung-Wei Yen, Ming-Wei Wu,
+Identification of prior β grains of additive manufactured Ti-6Al-4V alloy using electron backscatter diffraction,
+Materials Letters,
+Volume 324,
+2022,
+132758,
+ISSN 0167-577X,
+https://doi.org/10.1016/j.matlet.2022.132758.
+(https://www.sciencedirect.com/science/article/pii/S0167577X22011119)
+Abstract: Prior columnar β grains are an important microstructural feature of laser powder bed fusion (LPBF) Ti-based alloys and affect the properties. The objective of this study was to reconstruct the prior β grains of heat-treated LPBF Ti-6Al-4V alloy using crystallography data of α grains from electron backscatter diffraction. The reconstruction shows that the orientation relationship in β to α transformation is close to the Burgers orientation relationship but not rational. Besides, the results clearly confirm the orientation inheritance between the reversed β phase and the prior β phase. An accidental finding is that the α boundaries, having with misorientation ranges of 15°–56° and 67°–88°, are nearly identical to the high-angle grain boundaries of prior β phase. This can be a simple approach to identify high-angle grain boundaries of prior β phase when reconstruction algorithm cannot be obtained.
+Keywords: Additive manufacturing; Ti-6Al-4V; Parent phase reconstruction; Microstructure; Electron backscatter diffraction
+
+A. Díaz, J.M. Alegre, I.I. Cuesta, E. Martínez-Pañeda, Z. Zhang,
+Notch fracture predictions using the Phase Field method for Ti-6Al-4V produced by Selective Laser Melting after different post-processing conditions,
+Theoretical and Applied Fracture Mechanics,
+Volume 121,
+2022,
+103510,
+ISSN 0167-8442,
+https://doi.org/10.1016/j.tafmec.2022.103510.
+(https://www.sciencedirect.com/science/article/pii/S0167844222002555)
+Abstract: Ti-6Al-4V is a titanium alloy with excellent properties for lightweight applications and its production through Additive Manufacturing processes is attractive for different industrial sectors. In this work, the influence of mechanical properties on the notch fracture resistance of Ti-6Al-4V produced by Selective Laser Melting is numerically investigated. Literature data is used to inform material behaviour. The as-built brittle behaviour is compared to the enhanced ductile response after heat treatment (HT) and hot isostatic pressing (HIP) post-processes. A Phase Field framework is adopted to capture damage nucleation and propagation from two different notch geometries and a discussion on the influence of fracture energy and the characteristic length is carried out. In addition, the influence of oxygen uptake is analysed by reproducing non-inert atmospheres during HT and HIP, showing that oxygen shifts fracture to brittle failures due to the formation of an alpha case layer, especially for the V-notch geometry. Results show that a pure elastic behaviour can be assumed for the as-built SLM condition, whereas elastic-plastic phenomena must be modelled for specimens subjected to heat treatment or hot isostatic pressing. The present brittle Phase Field framework coupled with an elastic-plastic constitutive analysis is demonstrated to be a robust prediction tool for notch fracture after different post-processing routes.
+Keywords: Notch fracture; Finite element modelling; Phase Field; Additive manufacturing; Ti-6Al-4V
+
+Atasi Ghosh, Vivek Kumar Sahu, Nilesh Prakash Gurao,
+Effect of heat treatment on the ratcheting behaviour of additively manufactured and thermo-mechanically treated Ti–6Al–4V alloy,
+Materials Science and Engineering: A,
+Volume 833,
+2022,
+142345,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2021.142345.
+(https://www.sciencedirect.com/science/article/pii/S0921509321016099)
+Abstract: The ratcheting behaviour of the additively manufactured and thermo-mechanically treated Ti–6Al–4V alloy has been investigated. Post heat treatment microstructures of comparable mechanical strength properties have been developed from both the material. Additively manufactured Ti–6Al–4V has a heterogeneous microstructure with defects and residual stresses as compared to the homogeneous microstructure of thermo-mechanically treated Ti–6Al–4V. It has been found that the fatigue life of the as-built additively manufactured sample is less than 50% of the thermo-mechanically treated sample and the fatigue life decreases further after heat treatment. The macroscopic cyclic stress-strain behaviour could not be predicted well using the combined hardening model in the Finite Element Method for the additively manufactured alloy. This has been attributed to the heterogeneous evolution of microscopic strain investigated using the Digital image correlation (DIC) technique. The detrimental effect of heterogeneity of the microstructure on the ratcheting behaviour of the heat-treated additively manufactured alloy has been investigated using the Electron backscatter diffraction (EBSD) technique. It reveals that the presence of multi-variant needle-shaped martensite is effective in increasing the crack propagation resistance and increasing the fatigue life of the as-built additively manufactured alloy as compared to its heat-treated counterparts in which both lamellar and acicular morphology of alpha is prevalent.
+Keywords: Additive manufacturing; Martensite decomposition; Digital image correlation; Finite element simulation; Ti–6Al–4V
+
+A. Manjunath, V. Anandakrishnan, S. Ramachandra, K. Parthiban, S. Sathish,
+Investigations on the effect of build orientation on the properties of wire electron beam additive manufactured Ti-6Al-4V alloy,
+Materials Today Communications,
+Volume 33,
+2022,
+104204,
+ISSN 2352-4928,
+https://doi.org/10.1016/j.mtcomm.2022.104204.
+(https://www.sciencedirect.com/science/article/pii/S2352492822010546)
+Abstract: In the present scenario, wire additive manufacturing is the most effective and efficient technique adopted to realize complex and bulky components in aerospace applications. The current work mainly investigates the heterogeneous and anisotropic behavior of the electron bean wire additive manufactured Ti-6Al-4V. To investigate the effect of build orientation, cuboids were built to extract cylindrical samples with axis parallel to Z-axis, X-axis, Y-axis, and inclined at 45° to the base X-Y plane. Non-destructive inspection using radiography was conducted to ensure the attainment of defect-free samples. Further, the samples were subjected to advanced material characterization techniques. Microstructural features of as-built samples reveal the large columnar prior beta grains attributed to the rapid cooling in the vacuum chamber. Electron backscatter diffraction analysis shows β phase solidified as columnar grains. The martensite structure is observed in the Transmission electron microscopic analysis of the fabricated samples. The tensile samples build at different orientations exhibits the higher yield strength and higher percentage elongation for the sample built along Z-axis. The tensile strength and elongation of the additive built samples are found to be better than that of wrought Ti-6Al-4V. The fractography analysis on the fractured specimen reveals the failure through ductile mode.
+Keywords: Wire electron beam additive manufacturing; Tensile strength; EBSD; TEM; Fractography
+
+Lihong Yuan, Wenrui Wang, Hao Zhang, Zengliang Wei, Hui Zhang, Wangfeng Zhang,
+Evolution of texture and tensile properties of cold-rotary swaged Ti–6Al–4V alloy seamless tubing after annealing at different temperatures,
+Materials Science and Engineering: A,
+Volume 841,
+2022,
+143003,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2022.143003.
+(https://www.sciencedirect.com/science/article/pii/S0921509322004105)
+Abstract: The effect of texture evolution, recrystallization behavior and deformation on the mechanical properties of cold rotary swaged Ti–6Al–4V tubing during annealing was studied by X-ray diffraction (XRD) and electron backscatter diffraction (EBSD). The prismatic slip (1 1(_) 00) [112(_) 0], pyramidal slip(10 1(_) 1) [1(_) 21(_) 0] with the largest Schmid factor values (SF) and {101(_) 2} twining structure can be obtained after annealing at 650 °C. The high plasticity of the Ti–6Al–4V tubing can be attributed to the combined effect of slip structure and twining structure. As a result, Ti–6Al–4V tubing has excellent tensile properties and achieves a compromise between strength and ductility. Meanwhile, the radial texture produced by cold rotary swaging has almost no change though slight recrystallization occurs at this temperature. After annealing at 750 °C, the content of {10 1(_) 2} twining decreases significantly, and the recrystallization reduces the dislocation and grain boundary strengthening effects. This work is of theoretical significance and practical value for optimizing the annealing processes of cold rotary swagged Ti–6Al–4V tubing and developing advanced aerospace hydraulic systems with higher operating pressures.
+Keywords: Titanium; Mechanical properties; Electron backscatter diffraction; Texture; Recrystallization; Deformation mechanism
+
+Kun Cheng, Mingzhe Xi, Jiajia Cui, Chao Cai,
+Effects of press down volumes on the microstructure and mechanical properties of hybrid in situ point-mode forging and laser additive manufactured Ti-6Al-4V,
+Materials Letters,
+Volume 320,
+2022,
+132332,
+ISSN 0167-577X,
+https://doi.org/10.1016/j.matlet.2022.132332.
+(https://www.sciencedirect.com/science/article/pii/S0167577X22006851)
+Abstract: The intrinsic high cooling rates and high thermal gradients of laser additive manufacturing leaded to a tendency towards columnar grains. Hybrid in situ point-mode forged and laser additive manufacturing (HFAM) was a newly-developed printing technique with the capability of full transition from columnar grains to fine equiaxed grains in the HFAM-processed samples. Press down volume (PDV) of point-mode forging, an important parameter in the HFAM technique, affected the microstructure of the HFAM-processed samples. The effects of PDVs on the microstructure and mechanical properties of the HFAM-processed Ti-6Al-4V were investigated. The HFAM-processed samples showed equiaxed grains. The grain sizes were decreased with the increase in the PDV. The higher PDV contributed to the generation of the equiaxed primary α-Ti phase. The microstructure with fine grains and a bimodal morphology was achieved via the PDV of 0.25 mm, providing excellent comprehensive mechanical properties. The tensile strength and elongation at break of 0.25 mm PDV sample were ∼20.6% and ∼115.1% higher than that of un-forged one.
+Keywords: Ti-6Al-4V; Laser processing; Press down volumes; Point-mode forging; Microstructure; Additive manufacturing
+
+Xiaorong Zhou, Lin He, Tao Zhou, Hongwan Jiang, Jiangyi Xu, Pengfei Tian, Zichuan Zou, Feilong Du,
+Multiscale research of microstructure evolution during turning Ti-6Al-4V alloy based on FE and CA,
+Journal of Alloys and Compounds,
+Volume 922,
+2022,
+166202,
+ISSN 0925-8388,
+https://doi.org/10.1016/j.jallcom.2022.166202.
+(https://www.sciencedirect.com/science/article/pii/S0925838822025932)
+Abstract: High temperature and severe deformation induced by the turning process of Ti-6Al-4V alloy will significantly impact the microstructure evolution of the chip and machined surface layer, thus significantly affecting the mechanical properties of the machined part. This study innovatively proposed a coupling simulation technology regarding finite element (FE) and cellular automata (CA) to simulate the microstructure evolution on macroscale and mesoscale, respectively, to improve the mechanical performance of the machined part. The modified Johnson and Cook (JC) constitutive model was used and its constitutive parameters were determined by combining an experimental method with an inverse identification methodology, to improve the precision of FE simulation. Based on the determined constitutive parameters, the Johnson-Mehl-Avrami-Kolmogorov (JMAK) models of dynamic recrystallization (DRX) were integrated into the FE model to investigate the distribution fields of grain size on macroscale. Afterward, the microstructure evolution on mesoscale was simulated successfully based on CA models of microstructure evolution and related input parameters obtained from the FE simulation. Orthogonal cutting experiments and corresponding tests adopting Electron Back Scattering Diffraction (EBSD), scanning electron microscopy (SEM) and metallographic microscope were performed to verify the credibility of FE and CA simulations. The results of the simulation and the experiments showed a reasonable consistency. The effects of cutting parameters on the grain size were analyzed through simulations and experiments. As indicated by the results, the degree of grain refinement occurring in the adiabatic shear band and machined surface layer increased with the increase in the cutting speed and the feed rate under the selected ranges of cutting parameters, whereas the effect mechanisms of the cutting speed and the feed rate were different, which could be conducive to selecting appropriate cutting parameters, so as to improve the mechanical properties of the machined part.
+Keywords: Microstructure evolution; FE-CA; Material constitutive parameters identification; Multiscale; Ti-6Al-4V alloy
+
+Ryotaro Nishi, Fei Shen Ong, Hirobumi Tobe, Eiichi Sato,
+Strength optimization of low-pressure transient liquid phase bonded Ti–6Al–4V similar joint with Cu–Ni multi-interlayer,
+Materials Science and Engineering: A,
+Volume 846,
+2022,
+143275,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2022.143275.
+(https://www.sciencedirect.com/science/article/pii/S092150932200675X)
+Abstract: The pressure reduction of transient liquid phase bonding (TLPB) technique with sound Ti–6Al–4V similar joint is reported. Eliminating brittle intermetallic compounds (microstructural homogenization) and voids at the interface (void closure) is critical for sound joints with bending strength above the yield strength of Ti–6Al–4V. These two goals are achieved by adjusting the holding time (0.5–12 h) and bonding pressure (0.001–0.3 MPa) at a fixed bonding temperature of 950 °C below the phase transus of the substrates. The maximum bending strength of 1570 MPa is obtained with joint having a homogenized microstructure without any voids under joining condition held for 12 h with 0.03 MPa corresponding to 3% of the conventional TLPB technique. The holding time for microstructural homogenization is reduced with 0.3 MPa bonding pressure by liquid push-off from the interface. Low-pressure TLPB is recommended for cost reduction and ensuring shape accuracy of complex geometry components.
+Keywords: Transient liquid phase bonding; Ti–6Al–4V; Intermetallics; Diffusion; Bonding pressure
+
+Yue Qi, Xiaobin Zhang, Longlong Shan, Guangming Jiao, Qianwang Gao, Zhongliang Lin, Wenbin Zheng, Shuo Zhao,
+Design and fabrication of isotropic high-strength Ti-6Al-4V fastener,
+Materials Letters,
+Volume 323,
+2022,
+132554,
+ISSN 0167-577X,
+https://doi.org/10.1016/j.matlet.2022.132554.
+(https://www.sciencedirect.com/science/article/pii/S0167577X22009077)
+Abstract: We report a method on high-efficiency preparation of isotropic Ti-6Al-4V fasteners with super high strength. The fabrication process contains repeated rolling, drawing, heading, and heat treatment. The yield strength (σ0.2) of present fastener material reaches ∼1100 MPa in both axial and radial directions, which is among the highest value of all the Ti alloy fastener materials reported in the literature. The isotropic high strength of present material results from the fine bimodal microstructure and reduced texture. Present method to process Ti-6Al-4V fastener is both cost-effective and readily scalable, and it is therefore expected to be conducive to industrial production.
+Keywords: Metals and alloys; Structural; Metal forming and shaping; Deformation and fracture; Microstructure
+
+A.N. Aufa, Mohamad Zaki Hassan, Zarini Ismail,
+Recent advances in Ti-6Al-4V additively manufactured by selective laser melting for biomedical implants: Prospect development,
+Journal of Alloys and Compounds,
+Volume 896,
+2022,
+163072,
+ISSN 0925-8388,
+https://doi.org/10.1016/j.jallcom.2021.163072.
+(https://www.sciencedirect.com/science/article/pii/S0925838821044820)
+Abstract: Recently, additive manufacturing (AM), being part of IR4.0, received great attention for the fabrication of customized implants with outstanding quality, which are used in hard tissue replacement. For an orthopedic application, the titanium alloy implants, especially those that use Ti-6Al-4V manufactured by selective laser melting (SLM), should facilitate maximum osteointegration between the implant and corresponding bone. However, the superior mechanical characteristics, poor surface integration, antibacterial performance, and readiness of SLM Ti-6Al-4V for use in advanced implants are still not comparable to those of anatomical bone. This review focused on the current issue of stress-shielding limitations in SLM Ti-6Al-4V owing to failures in load-bearing applications. The surface treatment and modification strategy that might improve the osseointegration of the implant were discussed. The corrosion resistance of SLM Ti-6Al-4V which could significantly affect antibacterial capability, improve cell adherence and apatite formation on the bone remodeling surface was also addressed. Finally, the current challenges, prospects and applications for SLM Ti-6Al-4V development were presented.
+Keywords: Selective laser melting; Ti-6Al-4V; Stress shielding effect; Chemical treatment; Surface coating; Osseointegration
+
+Varad Maitra, Jing Shi, Cuiyuan Lu,
+Robust prediction and validation of as-built density of Ti-6Al-4V parts manufactured via selective laser melting using a machine learning approach,
+Journal of Manufacturing Processes,
+Volume 78,
+2022,
+Pages 183-201,
+ISSN 1526-6125,
+https://doi.org/10.1016/j.jmapro.2022.04.020.
+(https://www.sciencedirect.com/science/article/pii/S1526612522002481)
+Abstract: It is well known that slight changes in selective laser melting (SLM) process parameters may alter the outcome of mechanical and physical properties of the as-built material in a drastic and haphazard fashion. To overcome this, reliable property prediction models are most pertinent. In this study, a machine learning approach based on Gaussian Process Regression (GPR) is proposed to predict the relative density of as-built Ti-6Al-4V alloy manufactured via SLM, based on the most common input process parameters such as laser power, scanning speed, hatch spacing, and layer thickness, as well as an integrated input of volumetric energy density. A most comprehensive test dataset to train and verify GPR models was retrieved from literature papers that extensively investigated mechanical and physical properties of additively manufactured Ti-6Al-4V alloy. GPR models with four different kernel functions were analyzed and exponential GPR model with optimized hyperparameters was chosen as the most viable model for predicting as-built density of Ti-6Al-4V alloy. A parametric multiple linear regression (MLR) model was also presented and serves as a benchmark. When inferences were made on newer publication data, the GPR model and the MLR model predicted the densities with mean absolute errors (MAE) of 1.12% and 5.22% respectively. The inferior performance of the MLR model compared emphasizes the need of non-parametric supervised learning technique for SLM. To truly demonstrate the effectiveness of the proposed GPR model in real-world metal AM jobs, 22 experimental samples were printed. Predictions made on all the samples, when compared to their actual density values, resulted in MAE of 0.27%. Clearly, creation of most comprehensive mined data, kernel selection, and rigorous validation and verification of GPR model make this study one of its kind and prove the GPR model's predictive dexterity and the potential impact in the world of additive manufacturing.
+Keywords: Selective laser melting; Ti-6Al-4V; Density predictions; Machine learning; Gaussian Process Regression
+
+Abdul Azeez Abdu Aliyu, Suparat Udomlertpreecha, Min Medhisuwakul, Chinnapat Panwisawas, Roger Reed, Chedtha Puncreobutr, Jirapon Khamwannah, Surasak Kuimalee, Chetarpa Yipyintum, Boonrat Lohwongwatana,
+A new toxic-free Ti40Zr10Co36Pd14 metallic glass with good biocompatibility and surface behaviour comparable to Ti-6Al-4V,
+Materials & Design,
+Volume 218,
+2022,
+110691,
+ISSN 0264-1275,
+https://doi.org/10.1016/j.matdes.2022.110691.
+(https://www.sciencedirect.com/science/article/pii/S0264127522003124)
+Abstract: In this study, a new toxic-free Ti40Zr10Co36Pd14 amorphous alloy with a critical casting size of 5 mm diameter and 20 mm long has been synthesised through copper-mold casting process. The Ti40Zr10Co36Pd14 bulk metallic glass (BMG) rod has further formed into thin films through the filtered cathodic vacuum arc (FCVA) deposition process. To assess the biocompatibility and the surface behaviour of the synthesised Ti40Zr10Co36Pd14 BMG, the metallic glass (MG) thin films are fabricated on the glass substrate and cultured using murine osteoblast cells (MC3T3-E1) and human osteoblast-like cells (SaOS-2). Various characterisation techniques has been utilised to evaluate the surface properties and the cultured cells behaviour of the deposited thin films. The synthesised Ti40Zr10Co36Pd14 composition shows good biocompatibility similar to the routinely used Ti-6Al-4V. The osteoblast cells proliferate very well on the Ti40Zr10Co36Pd14 MGs and exhibit similar levels of alkaline phosphatase enzymatic activity to those of the controls and the Ti-6Al-4V material. The MC3T3-E1 cells adhered and spread faster on the alumina particle blasted Ti40Zr10Co36Pd14 and Ti-6Al-4V surfaces with osteoblast-like shapes. These results suggest that Ti40Zr10Co36Pd14 BMG is biocompatible and could support osteoblast differentiation. Thus, the new alloy can be used as a candidate material for potential biomedical application.
+Keywords: Bulk metallic glass; Biocompatibility; Copper-mold casting; Cell culture; Surface roughness; Sandblasting
+
+L. Wang, Z.Q. Liu, S.F. Li, Y.F. Yang, R.D.K. Misra, J. Li, D. Ye, J.Y. Cui, X.M. Gan, Z.J. Tian,
+Few-layered Ti3C2 MXene-coated Ti–6Al–4V composite powder for high-performance Ti matrix composite,
+Composites Communications,
+Volume 33,
+2022,
+101238,
+ISSN 2452-2139,
+https://doi.org/10.1016/j.coco.2022.101238.
+(https://www.sciencedirect.com/science/article/pii/S2452213922001802)
+Abstract: A few-layered Ti3C2 MXene-coated Ti–6Al–4V composite powder was developed via powder surface modification by using fluidization technology. The obtained MXene coating demonstrated the advantages of uniform dispersion, high purity and good thermal stability. Also, the coating enabled the massive retention and uniform distribution of MXene in the sintered composite. Compared to the bare Ti–6Al–4V alloy, the yield strength of MXene/Ti–6Al–4V composite was increased from 895 to 1297 MPa, while maintaining the similar strain. The thermal conductivity of composite was approximately four-fold compared to that of Ti–6Al–4V alloy, which is attributed to the intrinsically high thermal conductivity and the uniform distribution characteristics of the remained Ti3C2 MXene in the composite.
+Keywords: Composite; Titanium; Powder modification; MXene
+
+Qingqing Wang, Ravi M. Shankar, Zhanqiang Liu, Yanhai Cheng,
+Crystallographic texture evolutions of Ti-6Al-4V chip foils in relation to strain path and high strain rate arising from large strain extrusion machining process,
+Journal of Materials Processing Technology,
+Volume 305,
+2022,
+117588,
+ISSN 0924-0136,
+https://doi.org/10.1016/j.jmatprotec.2022.117588.
+(https://www.sciencedirect.com/science/article/pii/S0924013622001005)
+Abstract: Large strain extrusion machining (LSEM) is a promising process to create chip foils with ultrafine grains and a certain type of crystallographic texture. Disclosing the interconnection between the deformation histories and the crystallographic texture variations resulting from the LSEM process is vital for the texture generation and control of Ti-6Al-4V chip foils. Electron-backscattered diffraction and viscoplastic self-consistent (VPSC) simulation were combined based on numerical simulation to study evolutions of crystallographic textures for chip foils during LSEM of Ti-6Al-4V. The deformation histories during LSEM process were also analyzed by coupling theoretical analysis with digital image correlation technique. The role of individual type of slip system on the texture variation of Ti-6Al-4V chip foils was identified by modifying the Voce hardening parameters in VPSC model. It is seen that strain path controlled by the chip thickness ratio changes the inclination of generated textures in chip foils. Basal and 1-st order pyramidal <c+a> slip systems are the main deformation modes in high strain rate deformation condition of LSEM process. Similar textures are formed under large strain and high strain rate deformation in LSEM comparing with that in free machining process. The conclusions are useful to control the crystallographic texture generation in LSEM of Ti-6Al-4V by optimizing cutting speeds and chip thickness ratios.
+Keywords: Crystallographic texture; VPSC simulation; Strain path; Large strain extrusion machining; Ti-6Al-4V
+
+Nicholas Derimow, Justin M. Gorham, May L. Martin, Jake T. Benzing, Ryan M. White, Nikolas Hrabe,
+Surface chemistry in Ti-6Al-4V feedstock as influenced by powder reuse in electron beam additive manufacturing,
+Applied Surface Science,
+Volume 602,
+2022,
+154280,
+ISSN 0169-4332,
+https://doi.org/10.1016/j.apsusc.2022.154280.
+(https://www.sciencedirect.com/science/article/pii/S016943322201813X)
+Abstract: X-ray photoelectron spectroscopy (XPS) as well as scanning and transmission electron microscopy (SEM/TEM) analysis was carried out on four Ti-6Al-4V powders used in electron beam powder-bed fusion (PBF-EB) production environments: virgin low oxygen (0.080 wt% O), reused medium oxygen (0.140 wt% O), reused high oxygen (0.186 wt% O), and virgin high oxygen (0.180 wt% O). The two objectives of this comparative analyses were to (1) investigate high oxygen containing Grade 23 Ti-6Al-4V powders which were further oxidized as a function of reuse and (2) comparing the two virgin Grade 23 and Grade 5 powders of similar oxygen content. The microstructure of the low oxygen virgin Grade 23 powder was consistent with martensitic α′ microstructure, whereas the reused powder displayed tempered α/β Widmänstatten microstructure. XPS revealed a decrease in TiO2 at the surface of the reused powders with an increase in Al2O3. This trend is energetically favorable at the temperatures and pressures in PBF-EB machines, and it is consistent with the thermodynamics of Al2O3 vs. TiO2 reactions. An unexpected amount of nitrogen was measured on the titanium powder, with a general increase in nitride on the surface of the particles as a function of reuse in the Grade 23 powder.11This work is an official contribution of the National Institute of Standards and Technology and is not subject to copyright in the United States.
+Keywords: Additive manufacturing; Ti-6Al-4V; Oxidation; Powder recycling; XPS; Powder reuse
+
+Chao Wang, Zezhan Zhang, Peifeng Yu, Ying Duan, Yi Niu, Jing Jiang,
+Normal spectral emissivity study for GH3044 alloy and Ti-6Al-4V alloy,
+Infrared Physics & Technology,
+Volume 125,
+2022,
+104278,
+ISSN 1350-4495,
+https://doi.org/10.1016/j.infrared.2022.104278.
+(https://www.sciencedirect.com/science/article/pii/S1350449522002596)
+Abstract: Changes in normal spectral emissivity during alloy oxidation cause large errors in radiation thermometry for aero-engines and gas turbines. To study the effect of oxidation on the normal spectral emissivity of the alloy surface, GH3044 alloy and Ti-6Al-4V alloy were selected as the research objects in this paper, and the normal spectral emissivity of the two alloys at 1.5–2.1 μm wavelength was experimentally measured during oxidation in the air for 12 h. The two alloys commonly showed an overall increasing trend with oscillation during the oxidation process, but their oscillation characteristics were significantly different. The interference effect caused by the air-oxide film interface was the main reason for the oscillation phenomenon. To explore the changes of normal spectral emissivity caused by oxide film, the composition and micromorphology of alloy surface were analyzed through X-ray diffraction (XRD) and scanning electron microscopy (SEM), and it was found that the change of the alloy surface composition and micromorphology were the main factors for the overall increase on the normal spectral emissivity. In addition, polynomial models of normal spectral emissivity versus oxidation time of the two alloy was established, which was in good agreement with the experimental results.
+Keywords: Normal spectral emissivity; Oxidation; GH3044 alloy; Ti-6Al-4V alloy; Oscillation
+
+Zidong Lin, Kaijie Song, Benedetto Di Castri, Wei Ya, Xinghua Yu,
+Microstructure-gradient approach for effective determination of post-heat treatment temperature of an additive manufactured Ti-6Al-4V sample,
+Journal of Alloys and Compounds,
+Volume 921,
+2022,
+165630,
+ISSN 0925-8388,
+https://doi.org/10.1016/j.jallcom.2022.165630.
+(https://www.sciencedirect.com/science/article/pii/S0925838822020217)
+Abstract: In this paper, a Ti-6Al-4V wall was fabricated using wire and arc additive manufacturing to be as-deposited (AD) coupons for investigating the effect of post-heat treatments on microstructure and mechanical properties. A Gleeble thermal-mechanical simulator was used to create a microstructure gradient in the sample with different heat treatment temperatures to efficiently determine the optimal post-treatment temperature, which is followed by furnace heat treatments to find proper aging (Age) conditions. Solid solution at 830 ℃ for 2 h followed by water cooling + aging at 500 ℃ for 4 h followed by furnace cooling was considered to be the optimal post-heat treatment candidate because it gained a 12.85% improvement of yield strength (YS) and 3.33% improvement of the ultimate tensile strength (UTS), though tensile fracture elongation (EL) decreased 3.37% compared to the as-deposited samples. With this condition, microstructure evolution including β grains, α widmanstätten, grain boundary α (GB α), and α’ martensite was characterized at the same position of the sample experienced deposition (AD), solid-solution treatment (AD-ST), and aging (AD-ST-Age) respectively. The relationship between such step-by-step microstructure evolution with tensile strength as well as hardness change was analyzed and established. In the end, brittle fracture surfaces of AD, AD-ST, and AD-ST-Age samples were observed to find the factors that contribute to failure.
+Keywords: Wire and arc additive manufacturing; Ti-6Al-4V alloy; Post-heat treatment; Microstructure evolution; Mechanical properties
+
+Fei Shen Ong, Ryotaro Nishi, Hirobumi Tobe, Eiichi Sato,
+Strength optimization of two-step-bonded Ti-6Al-4V/Si3N4 joint with Nb interlayer via transient-liquid-phase bonding and active-metal brazing,
+Journal of the European Ceramic Society,
+Volume 42, Issue 6,
+2022,
+Pages 2707-2717,
+ISSN 0955-2219,
+https://doi.org/10.1016/j.jeurceramsoc.2022.01.039.
+(https://www.sciencedirect.com/science/article/pii/S0955221922000516)
+Abstract: A novel two-step bonding of Ti-6Al-4V/Si3N4 joint was developed with Nb interlayer as residual-stress reliever via low-pressure transient-liquid-phase bonding (TLPB) of Ti-6Al-4V/Nb side prior to active-metal brazing of Nb/Si3N4 side. While 1.75 mass% of Ti in a 50-µm-thick CUSIL-ABA® filler was sufficient for sound bonding at Nb/Si3N4 side when brazed at 1103 K for 10 min, one-step-brazed joints with bonding area of 10 × 10 mm2 were prone to failure at the Ti-6Al-4V/Nb side due to brittle Cu-Ti intermetallic compounds (IMCs). Replacing brazing of Ti-6Al-4V/Nb side with TLPB using pure Cu and Ni foils as filler at 1213 K for 180 min eliminated the formation of brittle IMCs via homogenization of (α + β)-Ti; bending strength increased to 193 MPa with residual-stress-induced failure from Si3N4 ceramics. Finally, effectiveness of stress-accommodation via Nb interlayer and filler’s plastic flow was quantitatively verified with reasonable fidelity by finite-element analysis incorporating temperature-dependent elasto-plastic properties.
+Keywords: Brazing; Transient-liquid-phase bonding; Ceramics; Residual stress; Finite element analysis
+
+Mandlenkosi G.R. Mahlobo, Lethu Chikosha, Peter A. Olubambi,
+Study of the corrosion properties of powder rolled Ti–6Al–4V alloy applied in the biomedical implants,
+Journal of Materials Research and Technology,
+Volume 18,
+2022,
+Pages 3631-3639,
+ISSN 2238-7854,
+https://doi.org/10.1016/j.jmrt.2022.04.004.
+(https://www.sciencedirect.com/science/article/pii/S223878542200504X)
+Abstract: Great efforts have been made in fabricating Ti–6Al–4V alloys that can be used in the biomedical implants industry. The increasing interest in using fabricated Ti–6Al–4V alloys in industrial applications is mainly due to the properties of alloys which include good combination of mechanical and corrosion resistance. This study was aimed at evaluating the corrosion properties of the Ti–6Al–4V alloy fabricated via powder rolling technique under various simulated human body solutions. A three-electrode electrochemical cell was used to carry out corrosion studies at 37 °C where the fabricated Ti–6Al–4V was immersed in 3.5% NaCl (pH = 6.5) and two simulated human body fluids, namely; Hank's balanced salt solution (HBSS) and Ringers solution with the measured pH of 6.9 and 6.4 respectively. The electrochemical techniques used to investigate the corrosion studies included open circuit potential (OCP), potentiodynamic polarization and electrochemical impedance spectroscopy (EIS). The fabricated Ti–6Al–4V alloy was characterized before and after the corrosion experiments via X-ray diffraction (XRD) and scanning electron microscope (SEM). The potentiodynamic polarization curves revealed a passivation phenomenon on the anodic domain indicating high corrosion resistance of Ti–6Al–4V alloy in all three electrolytes. The Ti–6Al–4V alloy exhibited the highest corrosion resistance when immersed in 3.5% NaCl with the estimated corrosion rate of 0.480 μm/yr. The excellent corrosion resistance of Ti–6Al–4V alloy was mainly due to the formation of an oxide film formed on the alloy surface as deduced from the EIS analysis. No corrosion products were detected by XRD analysis on the Ti–6Al–4V alloy surface immersed in all electrolytes which confirmed an excellent corrosion resistance property.
+Keywords: Biomedical implants; Corrosion resistance; Powder rolling; Ti–6Al–4V; XRD; SEM
+
+Martin Ferreira Fernandes, Verônica Mara de Oliveira Velloso, Herman Jacobus Cornelis Voorwald,
+Cr/CrN multilayer coating effect on the surface integrity of Ti-6Al-4V alloy under fatigue loadings,
+Procedia CIRP,
+Volume 108,
+2022,
+Pages 746-751,
+ISSN 2212-8271,
+https://doi.org/10.1016/j.procir.2022.03.115.
+(https://www.sciencedirect.com/science/article/pii/S2212827122005959)
+Abstract: Surface treatments are used to improve the tribological properties of titanium alloys for aeronautical applications. The present work aims to investigate the effect of a Cr/CrN multilayer coating on the surface integrity of Ti-6Al-4V alloy under fatigue loadings. SEM, EDS and optical microscopy techniques were applied to characterize the coated surface. The surface integrity after axial fatigue tests of the coated titanium alloy was investigated through SEM of the fracture surfaces. The results showed that cracks nucleated in the brittle layers of CrN during the fatigue cycles and, consequently, reduced the fatigue performance of the Ti-6Al-4V alloy.
+Keywords: Cr/CrN multilayer coating; fatigue; surface treatments
+
+Yorina S.F. Lantang, Equo Kobayashi, Tatsuo Sato,
+Fabrication of spark plasma sintered porous Ti-6Al-4V using PCA-added space holder method for bone implant materials,
+Materials Today: Proceedings,
+2022,
+,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2022.06.497.
+(https://www.sciencedirect.com/science/article/pii/S2214785322045175)
+Abstract: Ti-6Al-4V alloy has been used for bone implant materials. The porous Ti-6Al-4V lowers the mechanical misfit and prevents the implant loosening between bone and metal implant. The influence of sintering parameters, i.e., heating rate, sintering temperature, pressure, space holder size, and its distribution to the formation of both micro and macro- porosity is investigated. The initially developed image analysis of samples was used to quantitatively analyze the influence of process control agent (PCA) on the distribution of macro-pores. From the SEM results and samples relative density, it is found that the main parameter to control in the solid-state space holder method is space holder distribution, sintering pressure, and sintering temperature. Additionally, the most effective condition to produce less micro-porosity and more interconnectivity between macro-pore is the utilization of 10 wt% ethanol as PCA and sintering at 700 °C, 60 MPa.
+Keywords: Porous titanium; Process control agent; Spark plasma sintering; Space holder; Titanium alloy
+
+Muhannad Ahmed Obeidi, Andre Mussatto, Merve Nur Dogu, Sithara P. Sreenilayam, Eanna McCarthy, Inam Ul Ahad, Shane Keaveney, Dermot Brabazon,
+Laser surface polishing of Ti-6Al-4V parts manufactured by laser powder bed fusion,
+Surface and Coatings Technology,
+Volume 434,
+2022,
+128179,
+ISSN 0257-8972,
+https://doi.org/10.1016/j.surfcoat.2022.128179.
+(https://www.sciencedirect.com/science/article/pii/S0257897222001001)
+Abstract: Poor surface quality of Additively Manufactured (AM) components, can greatly increase the overall cost and lead time of high-performance components. Examples are medical devices where surfaces may contact the patient's skin and hence need to be smooth and aerospace components with high fatigue strength requirements where surface roughness could reduce fatigue life. The average surface roughness (Ra) of AM parts can reach high levels greater than 50 μm and maximum distance between the high peaks and the low valleys of more than 300 μm. As such, there is a need for fast, cost effective and selective finishing methods of AM produced components targeted at high-performance industries. In this paper Ti-6Al-4V Grade 23 ELI, popular for medical devices and aerospace parts production, was L-PBF processed to manufacture parts which were subsequently treated via laser polishing. Here in this work, CO2 laser polishing was used for the surface modification of the Ti-6Al-4V produced samples. The most significant processing parameters were optimised to achieve approximately an 80% reduction in the average surface roughness and a 90% reduction in the peak-to-valley distance with a processing time of 0.1 s/mm2 and cost of 0.2 €/cm2.
+Keywords: Laser polishing; Ti-6Al-4V; Powder bed fusion; Biomedical application; Additive manufacturing; Surface profile roughness
+
+Yu-Wei Cui, Liang-Yu Chen, Peng Qin, Ruifeng Li, Qianhao Zang, Jinhua Peng, Lina Zhang, Sheng Lu, Liqiang Wang, Lai-Chang Zhang,
+Metastable pitting corrosion behavior of laser powder bed fusion produced Ti-6Al-4V in Hank’s solution,
+Corrosion Science,
+Volume 203,
+2022,
+110333,
+ISSN 0010-938X,
+https://doi.org/10.1016/j.corsci.2022.110333.
+(https://www.sciencedirect.com/science/article/pii/S0010938X22002517)
+Abstract: The metastable pitting corrosion behavior of laser powder bed fusion (LPBF) produced Ti-6Al-4V is still unclear. Therefore, this work investigated the metastable pitting corrosion of LPBF-produced Ti-6Al-4V in Hank’s solution by electrochemical methods. The LPBF-produced sample (dominant by α′ phase in the microstructure) shows a higher frequency of pit nucleation than the annealed counterpart (composed by α + β dual phase). The passive films formed on the LPBF-produced sample exhibit a higher flux of oxygen vacancies, resulting in the absorption of more aggressive ions (e.g., Cl-) thereby producing more cation vacancies. The condensation of excessive cation vacancies contributes to the pit nucleation.
+Keywords: Metastable pitting corrosion; Corrosion behavior; Titanium alloy; Passive film; Laser powder bed fusion
+
+Mustafa M. Kadhim, Haider Abdulkareem AlMashhadani, Raid D. Hashim, Anees A. Khadom, Khulood Abid Salih, Abbas Washeel Salman,
+Effect of Sr/Mg co-substitution on corrosion resistance properties of hydroxyapatite coated on Ti–6Al–4V dental alloys,
+Journal of Physics and Chemistry of Solids,
+Volume 161,
+2022,
+110450,
+ISSN 0022-3697,
+https://doi.org/10.1016/j.jpcs.2021.110450.
+(https://www.sciencedirect.com/science/article/pii/S0022369721005163)
+Abstract: This study assessed the effect of co-substitution of strontium (Sr) and magnesium (Mg) ions into the hydroxyapatite (HA) coating which was deposited on Ti–6Al–4V dental alloys by an electrochemical deposition process. The deposited layers were examined using energy-dispersive X-ray spectroscopy, scanning electron microscopy, Fourier transform infrared spectroscopy, atomic force microscopy and X-ray diffraction. The corrosion behavior of Ti–6Al–4V alloys in an artificial saliva environment was studied through potentiodynamic polarization technique and electrochemical impedance spectroscopy. The results indicated that the substituted Sr and Mg ions in HA improved the HA coating, where the protection efficiency percentage (PE%) for Ti–6Al–4V alloys coated with Sr/Mg-HA was higher than for those coated with HA only. Maximum PE% was 74.19% for Ti–6Al–4V alloys coated with Sr/Mg-HA. Coating of the dental Ti–6Al–4V alloys with co-substituted bioactive Sr and Mg ions in HA improved the corrosion resistance properties of the alloys in the saliva environment.
+Keywords: Dental materials; Corrosion; Titanium; FTIR; SEM; XRD
+
+Lucas de Campos Carolo, Robert Eduardo Cooper Ordoñez,
+A REVIEW ON THE INFLUENCE OF PROCESS VARIABLES ON THE SURFACE ROUGHNESS OF Ti-6Al-4V BY ELECTRON BEAM POWDER BED FUSION,
+Additive Manufacturing,
+2022,
+103103,
+ISSN 2214-8604,
+https://doi.org/10.1016/j.addma.2022.103103.
+(https://www.sciencedirect.com/science/article/pii/S2214860422004936)
+Abstract: Electron beam powder bed fusion (EB-PBF) has been given much attention in recent years for its potential in the aerospace and medical industries, particularly with Ti-6Al-4V. However, these processes produce parts with inherent rough surface finishes, impacting the performance and generating additional challenges and costs with surface post-processing. This review examines the primary mechanisms responsible for surface roughness generation in EB-PBF and the process variables that have been verified to influence the surface quality of Ti-6Al-4V parts. The challenges in surface metrology of metallic PBF parts are also discussed, as are new perspectives and guidelines for future research.
+Keywords: Additive manufacturing; electron beam powder bed fusion; surface roughness; process variables; process parameters; process optimization
+
+Feilong Yu, Yun Zhang, Charlie Kong, Hailiang Yu,
+High strength and toughness of Ti–6Al–4V sheets via cryorolling and short-period annealing,
+Materials Science and Engineering: A,
+Volume 854,
+2022,
+143766,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2022.143766.
+(https://www.sciencedirect.com/science/article/pii/S0921509322011492)
+Abstract: The trade-off between strength and toughness has always been a key problem hindering the application prospect of titanium alloys. In this study, Ti–6Al–4V titanium alloy was processed by cryorolling combined with short-period vacuum annealing to overcome the problem. Results show that after annealing at 973 K, its yield strength and ultimate tensile strength were as high as 1020 MPa and 1126 MPa, respectively, and the elongation reached 10.9%. The static toughness of Ti–6Al–4V titanium alloy reached more than 12,000 MPa·%, which is the highest value compared with the rolled other kinds of titanium alloys reported in recent years. During short-period annealing of cryorolled Ti–6Al–4V sheets, the pinning effect of fine β phase particles and the competition mechanism between α and β grains inhibited the coarsening of grains. Meanwhile, partial recrystallization and recovery make the combination of micro-grains and ultrafine-grains. The shear band structure was weakened after annealing, which provides more favorable conditions for homogeneous deformation before fracture, which contributed to the enhanced toughness. The methods adopted here are suitable for large-scale industrial manufacturing the high strength and toughness Ti–6Al–4V alloys and might be applied to other kinds of Ti alloys.
+Keywords: Cryorolling; Annealing; Titanium alloy; Strength; Toughness; Fracture
+
+Qi Yang, Jing-hui Cheng, Hui-juan Guan, Wen-jun Tan, Ya-hong Zhang,
+Investigation of wet shot peening on microstructural evolution and tensile-tensile fatigue properties of Ti-6Al-4V alloy,
+Materials Chemistry and Physics,
+Volume 291,
+2022,
+126635,
+ISSN 0254-0584,
+https://doi.org/10.1016/j.matchemphys.2022.126635.
+(https://www.sciencedirect.com/science/article/pii/S0254058422009415)
+Abstract: Ti–6Al–4V (TC4) alloy was treated by wet shot peening (WP) using ceramic beads compared with dry shot peening (SP). The effects of shot peening on surface integrity, microstructural evolution, fatigue crack initiation behavior and tensile-tensile fatigue performance were investigated applying multiple characterization techniques. The result exhibited that the surface plastic deformation caused by WP and SP treatment resulted in microstructure changes near the surface. Surface morphology was distinctly changed by shot peening treatment. The roughness value increased from 0.596 μm (Ra) to 1.594 μm (Ra). Microhardness gradients and compressive residual stress (CRS) distributions along the depth were induced by shot peening. The maximum hardness reached 373.5 HV, 407.8 HV and 445.3 HV. The maximum value of CRS reached 884 MPa, 1038 MPa and 1207 MPa with the corresponding depth at 21 μm, 25 μm and 40 μm. The fatigue life was significantly improved by shot peening treatment. Cracks tended to initiate at the subsurface layer instead of the treated surface after shot peening. The reason for crack initiation position altering was tentatively explained by the CRS stable zone. The competition mechanism between the surface stress concentration and local strengthening factors were discussed based on the analysis of stress concentration factor, Kt.
+Keywords: Ti-6Al–4V alloy; Wet shot peening; Microstructural evolution; Surface integrity; Fatigue property
+
+Lan Yan, Anna Jiang, Yaning Li, Tian Qiu, Feng Jiang, Hong Xie, Fuzeng Wang, Xian Wu, Yong Zhang,
+Dynamic constitutive models of Ti-6Al-4V based on isothermal ture stress–strain curves,
+Journal of Materials Research and Technology,
+Volume 19,
+2022,
+Pages 4733-4744,
+ISSN 2238-7854,
+https://doi.org/10.1016/j.jmrt.2022.06.164.
+(https://www.sciencedirect.com/science/article/pii/S2238785422010262)
+Abstract: Ti-6Al-4V titanium alloy is a typical difficult-to-cut material used in many fields. The selection of cutting parameters exerts tremendous influences on the material removal process. Finite element numerical simulation is a low-cost method to obtain optimized cutting parameters. Finite element simulation requires the study of machining properties of machined materials. The material removal and related physical phenomena during machining are characterized by the dynamic mechanical properties of the machined material. In this paper, the dynamic mechanical properties of Ti-6Al-4V have been tested by the high temperature split Hopkinson pressure bar system to obtain true stress–strain curves under different conditions. The sensitivity of strain and temperature of Ti-6Al-4V has been analyzed. The influence of temperature-dependent specific heat capacity, which has been tested by a laser thermal conductivity tester, on adiabatic temperature rise has been considered. Adiabatic temperature rise has been calculated separately with constant specific heat capacity and temperature-dependent specific heat capacity. True stress–strain curves have been switched to true stress–strain isothermal curves to analyze separately the influence of strain rate and temperature on true stress. Based on true stress–strain isothermal curves, the constitutive models of power-law and Johnson–Cook have been introduced to fit the experimental results. The fitting results of the two constitutive models have been compared with the experiment results, which have an average error less than 6%.
+Keywords: Dynamic mechanical properties; Temperature-dependent specific heat capacity; Adiabatic temperature rise; True stress–strain isothermal curves; Power-law model; Johnson–Cook model
+
+Hengchang Bu, Xiaohong Zhan, Hongyan Yang, Feiyun Wang, Wanping Ma,
+Numerical simulation of thermal distribution and residual stress characteristic for laser wobble joining of CFRTP and Ti-6Al-4V alloy,
+Journal of Manufacturing Processes,
+Volume 79,
+2022,
+Pages 562-575,
+ISSN 1526-6125,
+https://doi.org/10.1016/j.jmapro.2022.05.018.
+(https://www.sciencedirect.com/science/article/pii/S1526612522003358)
+Abstract: The joining of light alloy and carbon fiber reinforced thermoplastics composite (CFRTP) is recently considered to be an effective way to meet the lightweight requirements of components manufacturing in the aviation field. Furthermore, laser joining technology presents an innovative method for joining CFRTP and light alloy with the advantage of high precision, high efficiency and non-contact. In this paper, a thermo-mechanically coupled model for laser wobble joining of CFRTP and Ti-6Al-4V alloy has been established with the combined heat source, which has not been comprehensively studied in the published research. The typical features of the temperature field and the distribution characteristic of the residual stress are analyzed thoroughly under various parameters, whereas the optimized process parameters are attained in terms of the size of the resin melting zone (RMZ) at the interface as well as the maximum value of residual stress. In addition, a validation experiment was implemented to substantiate the established model. The results indicate that the size of RMZ at the interface enlarges appreciably with higher laser power and lower scanning speed. The distinct residual stress concentration around the weld and the asymmetric residual stress concentration inside the CFRTP can be principally interpreted with the comprehensive effect of non-uniform heat input and fixture constraints during the laser joining process. Moreover, according to the size of RMZ as well as the maximum value of residual stress, the optimum parameters are eventually determined as scanning speed of 0.015 m/s and laser power of 2000 W. The simulated result presents substantial consistency with the verification experimental result, therefore corroborating the validity and accuracy of the established model.
+Keywords: Laser wobble joining; CFRTP; Ti-6Al-4V alloy; Temperature field; Residual stress
+
+Yang Yang, Jianlin He, Junyi Huang,
+Effect of heat treatment on adiabatic shear susceptibility of Ti–6Al–4V titanium alloy manufactured by selective electron beam melting,
+Materials Science and Engineering: A,
+Volume 851,
+2022,
+143647,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2022.143647.
+(https://www.sciencedirect.com/science/article/pii/S0921509322010310)
+Abstract: Ti–6Al–4V alloy manufactured by selective electron beam melting (SEBM) was heat treated with solution treatment at 1020°C for 2 h and aging at 500°C for 8 h, and the as-printed and heat-treated samples were shock loaded with split Hopkinson pressure bar (SHPB) at different strain rate (1700 s-1and 2700 s-1) and loading directions. The effects of microstructure, phase composition and orientation on adiabatic shear behavior were discussed. The results showed that the adiabatic shear behavior of as-printed Ti–6Al–4V was anisotropic, the differences of critical strain for adiabatic shearing between as-printed longitudinal and radial simples are 0.025 at 1700 s-1 and 0.004 at 2700 s-1 respectively; however, the differences of critical strain decrease to 0.002 at 1700 s-1 and 0.001 at 2700 s-1 after heat treatment, which indicate the heat treatment significantly decrease the anisotropy. The as-printed longitudinal samples with the were more prone to adiabatic shearing than the radial samples, due to the great influence of the orientation of α phase cells on adiabatic shear susceptibility. For example, when the c-axis of α phase cells was parallel to the loading direction, i.e., the as-printed longitudinal sample, it was difficult to active the basal{0001} < 11 2‾ 0 > and prismatic{101‾ 0} < 112‾ 0 > slip systems during shearing and only the pyramidal{101‾ 1} < 112‾ 0 > slip system with higher critical resolved shear stress (CRSS) could be activated, which increased the flow stress and enhances the thermal softening effect, and resulting in a higher adiabatic shear susceptibility of the as-printed longitudinal samples. The adiabatic shear susceptibility of the heat-treated samples in the longitudinal and radial directions was similar, because the orientation of the microstructure became weaker after recrystallization. The heat-treated samples were more susceptible to adiabatic shearing, because the lamellar spacing was reduced and the aspect ratio of the lamellar α phase became larger, which resulted in a larger α-phase interface area compared to that of the as-printed sample, causing greater resistance for dislocation moving during deformation, so the flow stress was elevated and the corresponding thermal softening effect was enhanced, which eventually led to an increase in adiabatic shear susceptibility.
+Keywords: Selective electron beam melting; Adiabatic shear susceptibility; Microstructure; Ti–6Al–4V
+
+Mengnan Liu, Zhen Yang, Litong Dong, Zuobin Wang, Shenzhi Wang, Lu Wang, Ying Xie, Qinhan Zhang, Zhankun Weng, Yanling Tian,
+Vacuum conditions for tunable wettability transition on laser ablated Ti-6Al-4V alloy surfaces,
+Colloids and Surfaces A: Physicochemical and Engineering Aspects,
+Volume 647,
+2022,
+129023,
+ISSN 0927-7757,
+https://doi.org/10.1016/j.colsurfa.2022.129023.
+(https://www.sciencedirect.com/science/article/pii/S0927775722007786)
+Abstract: This work investigates the mechanism of the controllable wettability transition on laser ablated Ti-6Al-4V alloy surfaces with the vacuum treatment. The effects of surface morphologies, vacuum conditions and joint mechanisms are discussed. To achieve stable and controllable wettability transitions, the laser ablated Ti-6Al-4V alloy surfaces were placed in a low vacuum environment to adsorb non-polar organic molecules. The sample appeared an unstable wettability transition, which manifested itself as a change in the apparent contact angle (ACA) with time. High vacuum conditions can accelerate the assembly of organic molecules on the sample surface and achieve a stable wettability transition. Furthermore, by varying the surface morphologies of laser ablated Ti-6Al-4V alloy and the adsorption time of organic molecules, stable and controllable wettability transitions can be achieved at high vacuum conditions.
+Keywords: Ti-6Al-4V alloy; Wettability transition; Vacuum treatment; Laser ablation
+
+Kun Vanna Yang, Geoff Robert de Looze, Vu Nguyen, Robert Simon Wilson,
+Directed-energy deposition of Ti-6Al-4V alloy using fresh and recycled feedstock powders under reactive atmosphere,
+Additive Manufacturing,
+Volume 58,
+2022,
+103043,
+ISSN 2214-8604,
+https://doi.org/10.1016/j.addma.2022.103043.
+(https://www.sciencedirect.com/science/article/pii/S2214860422004353)
+Abstract: This research studies the directed-energy deposition of Ti-6Al-4V (wt%) in an argon atmosphere containing 9–9500 ppm oxygen (from air), using both fresh and recycled feedstock powders. For fresh powder builds, when exposed to a 3500 ppm oxygen-containing atmosphere, a yield strength (YS) of 1061 ± 0.6 MPa and an elongation-to-fracture (ETF) of 10.5 ± 1.6 % are obtained. The oxygen pickup in the build deposit tends to plateau at 1000 ppm beyond 3500 ppm oxygen exposure. Conversely, the nitrogen pickup shows an increasing trend, reaching 1000 ppm for the air exposure range investigated. Recycled powder builds are stronger but less ductile than equivalent fresh powder builds made under comparable atmospheres. A higher degree of interstitial element pickup with no apparent saturation is identified for builds made from recycled powders, due to their smaller average particle size and a correspondingly larger specific surface area. The resulting microstructure for all samples made with air exposure comprises full lamellar α + β, formed through the in-situ decomposition of martensite at a temperature close to 600 °C. This conclusion is supported by the β volume fraction at 600°C as predicted by Thermo-Calc agreeing with image analysis data. The α lath thickness is found to increase with air exposure level. The increased β-transus temperature and martensite start temperature, and the accelerated diffusion-driven phase transformation due to the presence of elevated interstitial element contents accounts for the α lath thickening behaviour. YS and ultimate tensile strength (UTS) are found to increase linearly with oxygen equivalent. Solid solution strengthening from nitrogen and oxygen pickup is responsible for this increase. YS and UTS models based on oxygen equivalent are proposed. Nitrogen and oxygen in the builds dictate the ETF, with nitrogen content being the more potent factor.
+Keywords: Directed-energy deposition; Ti-6Al-4V; Recycled powders; Interstitial elements pickup; Mechanical properties
+
+Iosif Vazirgiantzikis, Sarah Louise George, Luc Pichon,
+Surface characterisation and silver release from Ti-6Al-4V and anodic TiO2 after surface modification by ion implantation,
+Surface and Coatings Technology,
+Volume 433,
+2022,
+128115,
+ISSN 0257-8972,
+https://doi.org/10.1016/j.surfcoat.2022.128115.
+(https://www.sciencedirect.com/science/article/pii/S0257897222000366)
+Abstract: Surface modification of the implant surface via silver ion (Ag+) implantation shows promise in reducing the post-surgery infection rates. Silver was ion implanted into polished Ti-6Al-4V and the anodically oxidised Ti-6Al-4V surfaces at two implantation fluences, namely, 0.4 and 1.2 × 1017 ions/cm2. Anodic oxidation was carried out using the 0.5 M H2SO4 and 2.1 M H3PO4 electrolytes. This study aims to characterise the surfaces and to determine whether surface modification of Ti-6Al-4V via anodic oxidation improves the Ag+ release from the surfaces in vivo. The tested dosages had no appreciable effect on the final amount of stored silver for both studied TiO2 layers as supersaturation of the surface with silver occurs at low dosage. Ag+ release from the anodic TiO2 layers was independent of the electrolyte used to create the anodic layer. Polished Ti-6Al-4V surfaces showed a greater potential silver storage capacity relative to the anodic TiO2 samples since the concentration of silver stored at the surface was roughly proportional to the Ag+ dosage. Comparison of Ag+ release rates of all studied samples with literature to determine the potential antimicrobial effects showed that all studied conditions had the potential to be 100% antimicrobial.
+Keywords: Silver ion implantation; Titanium; Anodisation; Titanium oxide; Anti-microbial effect
+
+Daniel Toboła, Jerzy Morgiel, Łukasz Maj, Małgorzata Pomorska, Magdalena Wytrwal-Sarna,
+Effect of tribo-layer developed during turning of Ti–6Al–4V ELI alloy on its low-temperature gas nitriding,
+Applied Surface Science,
+Volume 602,
+2022,
+154327,
+ISSN 0169-4332,
+https://doi.org/10.1016/j.apsusc.2022.154327.
+(https://www.sciencedirect.com/science/article/pii/S0169433222018608)
+Abstract: A tribo-layer, produced on parts made of titanium alloys fabricated using various machining techniques, is a natural outcome of these processes. Its removal, improving surface quality before nitriding, may seem not always justified as the latter treatment again causes surface roughening increasing with temperature. Therefore, the aim of the present paper was to investigate the surface integrity aspects of Ti–6Al–4V ELI alloy subjected to turning, i.e. presence of grooving and tribo-layer on the following gas nitriding process but performed at the low temperature of only 540 °C. Roughness and hardness measurements were supplemented by complementary microstructural investigations using SEM, TEM and XPS. These established that the coating of tribo-material on the as-machined alloy consists of oxidized amorphous layers with numerous thicker clumps. Nitriding at 540 °C, for 8 and 16 h, causes a gradual (from top to bottom) transformation of the tribo-layers into mostly crystalline TiO2 rutile phase. Completion of this stage makes the thinner part of tribo-layers permeable to nitrogen, starting nucleation and growth of TiN in the substrate. This process is accompanied by a release of nitrogen from the nitrided region and formation of a thin layer of α-Al2O3 in-between TiO2 rutile and TiN. This shows that efficient nitriding of machined titanium alloy parts, which produces an uniform TiN layer, should be achieved only after a full removal of the tribo-material from their surfaces.
+Keywords: Ti-6Al-4V; Turning; Tribo-layer; Gas nitriding; SEM; TEM; XPS
+
+Jenniffer Bustillos, Atieh Moridi,
+Uncovering the deformation pathways of additive manufactured Ti-6Al-4V with engineered duplex microstructure,
+Materialia,
+2022,
+101545,
+ISSN 2589-1529,
+https://doi.org/10.1016/j.mtla.2022.101545.
+(https://www.sciencedirect.com/science/article/pii/S2589152922002277)
+Abstract: Directional thermal gradients, high cooling rates and stochastic powder-laser interactions during additive manufactured (AM) result in printed Ti alloys with anisotropic properties, high strength but reduced ductility. Harnessing the inherent AM defects and using a standardized thermomechanical process, the authors designed a Ti alloy with duplex microstructure that overcomes the strength-ductility trade off while reducing anisotropy. Here, we uncover the deformation mechanisms of the Ti-6Al-4V duplex microstructure consisting of defect-free globular α-grains and hierarchical α-laths. Evaluation of the tensile surface reveals that the deformation begins with the early saturation of work hardening in α-laths, followed by the emergence of interfacial back stress hardening, and finally the transfer of strains to globular α-grains. Plastic strains partaken by the globular α-grains prompt crystal rotations to “softer” orientations (basal, and prismatic) and generate a fine network of dislocation cells. These findings suggest the ability to push property limits of structural materials by microstructure engineering during AM.
+Keywords: Microstructure engineering; L-PBF; Titanium alloys; additive manufacturing; dislocation substructures
+
+Peng Zhang, David Z.Zhang, Bin Zhong,
+Constitutive and damage modelling of selective laser melted Ti-6Al-4V lattice structure subjected to low cycle fatigue,
+International Journal of Fatigue,
+Volume 159,
+2022,
+106800,
+ISSN 0142-1123,
+https://doi.org/10.1016/j.ijfatigue.2022.106800.
+(https://www.sciencedirect.com/science/article/pii/S0142112322000780)
+Abstract: Based on low cycle fatigue (LCF) experiment data of SLM Ti-6Al-4V, a comprehensive finite element model of the combined isotropic and kinematic hardening and continuous damage for SLM Ti-6Al-4V is established. The simulation results of the stress-strain hysteresis loop and the LCF life are in good agreement with the experiment results under different strain amplitude levels. Based on the reliable achieved model of SLM Ti-6Al-4 V, the finite element model of the Gyroid and Diamond lattice structure is established for LCF analysis. It is found that the Diamond lattice structure has higher LCF resistance.
+Keywords: Selective Laser Melting; Ti-6Al-4V; Low Cycle Fatigue; Lattice Structure; Constitutive and Damage Model
+
+Jiankang Huang, Yanqin Huang, Xiaoquan Yu, Guangyin Liu, Shurong Yu, Ding Fan,
+Corrosion characterization of Ti-6Al-4V coating layer by the alternating current assisted GTAW method,
+Corrosion Science,
+Volume 197,
+2022,
+110066,
+ISSN 0010-938X,
+https://doi.org/10.1016/j.corsci.2021.110066.
+(https://www.sciencedirect.com/science/article/pii/S0010938X21008349)
+Abstract: To improve the corrosion resistance of Ti-6Al-4V alloy, a Ti-6Al-4V coating layer was deposited by the alternating current assisted gas tungsten arc welding (AC-GTAW) method. The effect of auxiliary alternating current on the microstructure and corrosion resistance of coating layers was investigated. The results show that the AC-GTAW coating layer has strong corrosion resistance due to α-widmanstatten colony structure. The oxides and hydroxides were formed on the coating layers surface after corrosion, and the microstructure and alloy element had a significant influence on the corrosion characteristic of the Ti-6Al-4V coating layers.
+Keywords: AC-GTAW; Coating layer; Ti-6Al-4V; Microstructure; Corrosion resistance
+
+Lei Shao, Guoliang Xie, Xinhua Liu, Yuan Wu, Qing Tan, Lu Xie, Shewei Xin, Fang Hao, Jiabin Yu, Wenli Xue, Kai Feng,
+Combustion behavior and mechanism of Ti-25V-15Cr compared to Ti-6Al-4V alloy,
+Corrosion Science,
+Volume 194,
+2022,
+109957,
+ISSN 0010-938X,
+https://doi.org/10.1016/j.corsci.2021.109957.
+(https://www.sciencedirect.com/science/article/pii/S0010938X21007253)
+Abstract: A distinctive combustion phenomenon is revealed by promoted ignition combustion tests of Ti-25V-15Cr and Ti-6Al-4V alloys. The relationship between ignition temperatures and oxygen pressures obeys the Van't Hoff equation. The ignition temperatures of Ti-25V-15Cr are higher than that of Ti-6Al-4V due to the decomposition and volatilization of V2O5. However, the burning velocity of Ti-25V-15Cr is faster than that of Ti-6Al-4V, attributed to the different migration way of solid-liquid interface. The phase structure of the matrix is considered as the key factor that controls the spreading rate of the solid-liquid interface and the burning velocities of Ti-25V-15Cr and Ti-6Al-4V alloys.
+Keywords: combustion behavior; titanium alloys; ignition temperature; burning velocity; phase structure
+
+Zhentao Wang, Shanglei Yang, Zeng Peng, Zihao Gao,
+Effect of defects in laser selective melting of Ti-6Al-4V alloy on microstructure and mechanical properties after heat treatment,
+Optics & Laser Technology,
+Volume 156,
+2022,
+108522,
+ISSN 0030-3992,
+https://doi.org/10.1016/j.optlastec.2022.108522.
+(https://www.sciencedirect.com/science/article/pii/S0030399222006740)
+Abstract: In this paper, the selective laser melting (SLM) Ti-6Al-4V sample with defects is heat treated (HT). The heat treatment temperatures are 750 °C, 850 °C, and 950 °C. The three temperatures are kept for 2 h, and then air cooling (AC) is used for treatment. Observe the changes in microstructure, phase composition, hardness, and tensile properties. The results show that the existence of defects will not affect the overall change trend of the microstructure, hardness and phase composition of the Ti-6Al-4V sample after heat treatment. However, there are obvious changes in the surrounding of two kinds of defects, which are the surface defects with large area and the lack of fusion (LOF) defects that are communicated with the outside world and extend to the inside of the sample. These two types of defects water, oil and air are easy to enter, and the defects are not easy to remove, heating will produce a large amount of hydrogen. Hydrogen enters the sample through defects, resulting in a large number of β phase around the two types of defects, and white around the defects. The hardness near the defect decreased significantly, and the closer the distance, the more the hardness decreased. A large amount of hydrogen entered into the Ti-6Al-4V sample, resulting in the appearance of new phase δ phase in the phase composition, resulting in the decrease of tensile strength（TS）and yield strength (YS) of the tensile properties after heat treatment, and the obvious decrease of elongation (EL). Moreover, among the various defects, the most important influence on the phase composition and tensile properties is the LOF defect that communicates with the outside world and extends to the inside of the sample.
+Keywords: SLMed-Ti-6Al-4V alloy; Heat treatment; Defects; Microstructure; Mechanical properties
+
+A.N. Aufa, Mohamad Zaki Hassan, Zarini Ismail, Norhaslinda Harun, James Ren, Mohd Faizal Sadali,
+Surface enhancement of Ti–6Al–4V fabricated by selective laser melting on bone-like apatite formation,
+Journal of Materials Research and Technology,
+Volume 19,
+2022,
+Pages 4018-4030,
+ISSN 2238-7854,
+https://doi.org/10.1016/j.jmrt.2022.06.135.
+(https://www.sciencedirect.com/science/article/pii/S2238785422009954)
+Abstract: Medical grade Ti–6Al–4V implants fabricated using selective laser melting (SLM) are recognized as a commercial biomaterial used for bone repairs and fracture fixation. However, there have been cases of failed bone remodeling and implant infections caused by deficient osteointegration. To improve osteogenesis, the Ti implants are treated by acid-etching. This study focused on the effect of surface treatment by using different percentages of sulfuric acid (H2SO4), hydrochloric acid (HCL), and hydrofluoric acid (HF) on the SLM Ti–6Al–4V. The microstructure and surface topography before and after treatment were evaluated. Then, the presence of a thicker anatase layer that was detectable on the surface was also observed by X-ray diffraction (XRD). The apatite-forming capabilities which indicated a sample bioactivity were assessed in simulated body fluid (SBF) for periods of 3 days and 7 days. The apatite formed on the surface of sample and XRD scanning revealed the deposition of Ca/P, suggesting successful bone-like apatite. The study discovered that these surface improvements were appropriate for the SLM Ti–6Al–4V prior to clinical applications and were likely to yield higher levels of osseointegration.
+Keywords: Selective laser melting; Ti–6Al–4V; Roughness; surface treatment; Bone-like apatite
+
+Jia Ge, Toby Feist, Alexander Elmore, Rincy Reji, Brian McLaughlin, Yan Jin, Dan Sun,
+Open hole surface integrity and its impact on fatigue performance of Al 2024-T3/Ti-6Al-4V stacks,
+Procedia CIRP,
+Volume 108,
+2022,
+Pages 234-239,
+ISSN 2212-8271,
+https://doi.org/10.1016/j.procir.2022.03.041.
+(https://www.sciencedirect.com/science/article/pii/S221282712200525X)
+Abstract: This work studies the open hole surface integrity of Al 2024-T3/Ti-6Al-4V stacks, which have been subjected to different hole making methods, namely, conventional drilling and helical milling. The resulting hole-exit burr, surface roughness and machined surface/sub-surface microstructures have been characterized and the impact of the hole surface integrity on the fatigue performance of the machined coupons has been revealed. Results show that helical milling can effectively reduce burr formation at hole-exit and cause minimal sub-surface microstructural deformation, especially in the Ti layer. Helical milling produced holes with greater surface roughness, interestingly, the fatigue life of the helical milling coupons doubled that of conventional drilling.
+Keywords: Al 2024-T3/Ti-6Al-4V stack; aeronautical hole making; fatigue
+
+Mohammadreza Asherloo, Ziheng Wu, Melody H. Delpazir, Eyob Ghebreiesus, Sara Fryzlewicz, Runbo Jiang, Benjamin Gould, Mike Heim, Dave Nelson, Mike Marucci, Muktesh Paliwal, Anthony D. Rollett, Amir Mostafaei,
+Laser-beam powder bed fusion of cost-effective non-spherical hydride-dehydride Ti-6Al-4V alloy,
+Additive Manufacturing,
+Volume 56,
+2022,
+102875,
+ISSN 2214-8604,
+https://doi.org/10.1016/j.addma.2022.102875.
+(https://www.sciencedirect.com/science/article/pii/S2214860422002743)
+Abstract: Hydride-dehydride (HDH) Ti-6Al-4V powders with non-spherical particle morphology are typically not used in laser-beam powder bed fusion (LB-PBF). Here, HDH powders with two size distributions of 50–120 µm (fine) and 75–175 µm (coarse) are compared for flowability, packing density, and resultant density of the LB-PBF manufactured parts. It is shown that a suitable laser power-velocity-hatch spacing combination can result in part production with a relative density of > 99.5% in LB-PBF of HDH Ti-6Al-4V powder. Size, morphology, and spatial distribution of pores are analyzed in 2D. The boundaries of the lack-of-fusion and keyhole porosity formation regimes are assessed and results showed parts with a relative density of > 99.5% could be LPBF processed at a build rate of 1.5–2 times of the nominal production rates in LPBF machines. The synchrotron x-ray high-speed imaging reveals the laser-powder interaction and potential porosity formation mechanism associated with HDH powder. It is found that lower powder packing density of coarse powder and high keyhole fluctuation result in higher fractions of porosity within builds during the LB-PBF process.
+Keywords: Additive manufacturing; Process map; Build rate; Porosity; Synchrotron-based dynamic x-ray radiography
+
+Khaoula Rahmouni, Aurélien Besnard, Kafia Oulmi, Corinne Nouveau, Aissam Hidoussi, Linda Aissani, Mourad Zaabat,
+In vitro corrosion response of CoCrMo and Ti-6Al-4V orthopedic implants with Zr columnar thin films,
+Surface and Coatings Technology,
+Volume 436,
+2022,
+128310,
+ISSN 0257-8972,
+https://doi.org/10.1016/j.surfcoat.2022.128310.
+(https://www.sciencedirect.com/science/article/pii/S0257897222002316)
+Abstract: This study focuses on the functionalized modification of Ti-6Al-4V and CoCrMo alloys substrates widely used by the biomedical domain as total joint replacements (TJRs) of the hip and knee. To improve the corrosion resistance of these devices, nanostructured columnar zirconium (Zr) thin films were produced by oblique angle deposition (OAD) using DC magnetron sputtering to model the particular design of the joint. The influence of the angular distribution of the incoming particle flux on the resulting film morphology (column tilt angle, porosity) and electrochemical behavior was studied by varying the substrates inclination angle θ from 15 to 90°. The experimental deposition process was reproduced by kinetic Monte Carlo (kMC) models. With the increase of the flux incidence angle α from 0 to 70°, the film thickness and the column tilt angle β vary in agreement with the theoretical models. Additionally, the corrosion behavior of uncoated and Zr-coated alloys (CoCrMo and Ti-6Al-4V) was compared through open circuit potential chronopotentiometry and electrochemical polarization test in NaCl 0.9% solution at 37 °C. It was found that the corrosion protection was successfully improved by the presence of the films. The variation of the corrosion behavior with the flux incidence angle is explained by the changes in the film density.
+Keywords: Oblique angle deposition (OAD); DC magnetron sputtering; Zr films; CoCrMo and Ti-6Al-4V alloys; Corrosion resistance; Porosity
+
+V.N. Vilane, R.D. Knutsen, J.E. Westraadt,
+Tensile property and microstructure assessment of hydrogen treated Ti-6Al-4V alloy,
+Materials Characterization,
+Volume 184,
+2022,
+111698,
+ISSN 1044-5803,
+https://doi.org/10.1016/j.matchar.2021.111698.
+(https://www.sciencedirect.com/science/article/pii/S1044580321008202)
+Abstract: Temporary hydrogen alloying (THA) treatment was used to refine the coarse-grained microstructure of a Ti-6Al-4V alloy with the intention of modifying tensile strength and ductility. Microstructure evolution was characterised using X-ray diffraction (XRD), electron backscatter diffraction (EBSD) and transmission electron microscopy (TEM). The results indicate that THA treatment does not refine the coarse network of prior beta grains, but it alters the coarse Widmanstätten microstructure by nucleating submicron beta grains within the individual lamellae. The modified microstructure increases ultimate tensile strength (UTS) in the order of 100 MPa. The dehydrogenation temperature affected tensile ductility. The lowest dehydrogenation temperature (675 °C) had the highest ductility loss, and increasing the dehydrogenation temperature recovered ductility until full ductility was recovered at 750 °C. The ductility loss was attributed to the embrittling effect of the hydrogen induced phase Ti3Al which remains in the microstructure even after hydrogen removal and only completely dissolves at 750 °C. The results demonstrate that THA treatment significantly alters the initial coarse-grained microstructure with concomitant improvement in strength, but that the promotion of Ti3Al precipitation can cause embrittlement unless the dehydrogenation treatment is controlled to optimise Ti3Al dissolution.
+Keywords: Ti-6Al-4V; Thermohydrogen processing; Grain refinement; Microstructure evolution; Tensile properties; Ti3Al embrittlement
+
+Edward W. Lui, Alexander E. Medvedev, Darren Edwards, Ma Qian, Martin Leary, Milan Brandt,
+Microstructure modification of additive manufactured Ti-6Al-4V plates for improved ballistic performance properties,
+Journal of Materials Processing Technology,
+Volume 301,
+2022,
+117436,
+ISSN 0924-0136,
+https://doi.org/10.1016/j.jmatprotec.2021.117436.
+(https://www.sciencedirect.com/science/article/pii/S0924013621003964)
+Abstract: Titanium alloys such as Ti-6Al-4V offer a potential lightweight alternative to traditional armour steels for ballistic protection due to their reduced density of approximately 60 % that of steel and tensile properties better than rolled homogenous armour steel. The manufacture of metallic armour often requires substantial thermomechanical processing to meet necessary ballistic performance specifications and thus restricts the complexity of armour designs. Additive manufacturing of Ti-6Al-4V has matured significantly in recent years, achieving outstanding mechanical properties in the as-built condition. In this study, Ti-6Al-4V plates were additively manufactured using both laser powder bed fusion and direct laser metal deposition for ballistic testing. The plates were built in different orientations and subjected to pre-heating or post heat-treatment to investigate the microstructural effect on the ballistic velocity limit (V50). The results show that plates with lamellar microstructure formed through martensite decomposition had higher V50 compared to lamellar microstructure formed via slow cooling through the β-transus. The post heat-treatment increased the V50 due to coarsening of the α-lath and stress relief. It is also apparent that anisotropy of the microstructure, specifically the columnar prior-β grains, affects the ballistic performance. A higher V50 was achieved when the columnar grains were aligned perpendicular to the projectile impact direction.
+Keywords: Additive manufacturing; Ballistic performance; Ti-6Al-4V; Heat treatment; Armour materials
+
+Samarjit Swain, Ramanuj Kumar, Isham Panigrahi, Ashok Kumar Sahoo, Amlana Panda,
+Machinability performance investigation in CNC turning of Ti–6Al–4V alloy: Dry versus iron-aluminium oil coupled MQL machining comparison,
+International Journal of Lightweight Materials and Manufacture,
+Volume 5, Issue 4,
+2022,
+Pages 496-509,
+ISSN 2588-8404,
+https://doi.org/10.1016/j.ijlmm.2022.06.002.
+(https://www.sciencedirect.com/science/article/pii/S2588840422000440)
+Abstract: Ti–6Al–4V is the largest useable titanium grade alloy in various engineering components due to its superior inherent properties like high strength to weight ratio, highly corrosive resistance, ability to withstand high temperature, etc. But machining of this alloy is found to be challenging because of having lesser thermal conductivity, highly chemical sensible, more sensitivity in work hardening and low young's modulus. However, the current study offers the use of novel and environment pleasant lubricants like iron aluminium oil with minimum quantity lubrication (MQL) concept to machine this alloy using a low budget hard tool (uncoated carbide) and the performance was compared with dry machining. Severe abrasion, adhesion, diffusion, and chipping were the main cause of tool failure in both cooling strategies. The tool life in MQL was traced to be 280% greater than the dry condition at the same turning parameters. Compared to dry turning, lower tool vibration and superior surface quality were obtained in MQL. The MQL assisted turning exhibited 12.38% lower costs than dry. Overall, with the use of an uncoated carbide tool, the turning of Ti–6Al–4V alloy in MQL was found to be more precise and more economical than dry and recommended for mass production works.
+Keywords: Ti–6Al–4V; Flank wear; Tool vibration; Surface roughness; Cutting cost
+
+Nicholas Derimow, Jake T. Benzing, Orion L. Kafka, Newell Moser, Priya Pathare, Michael Walker, Frank W. DelRio, Nikolas Hrabe,
+Assessment of intra-build variations in tensile strength in electron beam powder-bed fusion Ti–6Al–4V part 2: Effects of powder mixing,
+Materials Science and Engineering: A,
+Volume 848,
+2022,
+143353,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2022.143353.
+(https://www.sciencedirect.com/science/article/pii/S0921509322007493)
+Abstract: In Part 2 of this paper series, high-throughput tensile testing and characterization of porosity, microstructure, and oxygen content was carried out on Ti–6Al–4V samples that were fabricated via electron beam powder-bed fusion (PBF-EB) to test our hypothesis that current industrial powder mixing strategies lead to stochastic chemistry content and tensile property variation throughout a given build. Fifteen rectangular blocks were built at locations across the entire build plate and machined into high-throughput tensile racks that contained 25 mini tensile coupons each (375 total specimens). There was a spread of 138.9 MPa in yield strength (YS) across all specimens. Considering the YS spread was only 74.2 MPa for a virgin build with no mixing, as detailed in Part 1, the difference between these two YS ranges is expected to be attributed to mixing. To determine the cause for this observed spread in YS, systematic investigation of porosity, microstructure, and oxygen content was performed via scanning electron microscopy (SEM), micro X-ray computed tomography (μXCT), inert gas fusion, and time-of-flight secondary ion mass spectrometry (ToF-SIMS). The large variation in YS for these specimens could not be attributed to internal porosity, fracture surface porosity, α-lath thickness, or crystallographic texture. Inert gas fusion measurements indicated large, stochastic variation in oxygen content, and measurements via ToF-SIMS near the fracture surfaces indicate localized chemistry variations that could be responsible for the large variations in tensile properties, specifically the yield strength. Specific alternative powder mixing and reuse methodologies are proposed to mitigate undesirable chemistry and tensile property variation within PBF-EB Ti–6Al–4V.
+Keywords: Additive manufacturing; Ti–6Al–4V; Powder reuse; Tensile properties; Oxidation
+
+Qiang Liu, Bo Zhou, Juantao Zhang, Weifu Zhang, Mifeng Zhao, Ning Li, Maoxian Xiong, Jialei Chen, Yang Yu, Sheng-yin Song,
+Influence of Ru-Ni-Nb combined cathode modification on corrosion behavior and passive film characteristics of Ti-6Al-4V Alloy used for oil country tubular goods,
+Corrosion Science,
+2022,
+110569,
+ISSN 0010-938X,
+https://doi.org/10.1016/j.corsci.2022.110569.
+(https://www.sciencedirect.com/science/article/pii/S0010938X22004875)
+Abstract: A new Ru-Ni-Nb combined cathode modification for Ti-6Al-4V alloy was investigated. There was a multiple blocking mechanism existed in the passivation film of Ru-Ni-Nb modified Ti-6Al-4V alloy, which not only increased the surface potential, but also greatly decreased the number of metastable oxides and point defects in the passive film, and reduced the transport and diffusion process of titanium ions and/or oxygen in the passive film, thus effectively reducing destruction of the passive film and maintaining the stability and integrity of the oxide film, which has excellent corrosion resistance in harsh oil &gas exploration environments.
+Keywords: Titanium alloy oil country tubular goods (OCTG) Cathode modification Ru-Ni-Nb Passive film Corrosion resistance Multiple blocking mechanisms
+
+M. Jia, Y. Alshammari, F. Yang, L. Bolzoni,
+Mechanical behaviour of flashless hot forged and heat treated TiB-reinforced Ti–6Al–4V composites,
+Materials Chemistry and Physics,
+Volume 290,
+2022,
+126621,
+ISSN 0254-0584,
+https://doi.org/10.1016/j.matchemphys.2022.126621.
+(https://www.sciencedirect.com/science/article/pii/S0254058422009270)
+Abstract: Ti and its alloys, especially Ti–6Al–4V, are ideal materials for many engineering applications but their wear resistance is generally poor. Literature suggests that TiB is the most promising reinforcement to create Ti-based composites with enhanced wear resistance. In this study, TiB-reinforced Ti–6Al–4V composites with B content of 0, 0.5 and 1 wt% were manufactured via flashless hot forging without and with subsequent solution plus aging heat treatments. From the analysis of the microstructure and mechanical behaviour of the TiB-reinforced Ti–6Al–4V composites, it is found that flashless hot forging in the β phase region seals the residual porosity achieving fully dense materials. The presence of B influences the mechanical behaviour and a more significant strengthening is found for an addition rate of 1 wt% rather than 0.5 wt%. The initial post-forging solution plus aging heat treatment changes the morphology of the microstructural features and, therefore, enhances the mechanical properties whereas the increment of the aging time has lower effect but controls the thermally-activated growth of the TiB particles.
+Keywords: Titanium alloys; Powder metallurgy; Titanium matrix composites; Thermomechanical processing; Mechanical properties
+
+Nicolas Macallister, Thorsten Hermann Becker,
+Fatigue life estimation of additively manufactured Ti-6Al-4V: Sensitivity, scatter and defect description in Damage-tolerant models,
+Acta Materialia,
+Volume 237,
+2022,
+118189,
+ISSN 1359-6454,
+https://doi.org/10.1016/j.actamat.2022.118189.
+(https://www.sciencedirect.com/science/article/pii/S1359645422005705)
+Abstract: Damage-tolerant models for fatigue life estimation rely on fracture mechanics principles to model fatigue crack initiation and growth. In Laser-Based Powder Bed Fusion (LPBF) produced Ti-6Al-4V defect populations present non-uniform in size, shape, and location within components. Considering defect populations in a statistical nature offers one method to characterise defects to be included in fatigue life modelling for AM parts. In this study a novel numerical fatigue life model is built upon which the sensitivity to input parameters, short crack growth mechanics, defect morphology and location for LPBF-produced Ti-6Al-4V is established. Furthermore, we introduce the potential for multiple crack initiation sites and crack interaction. Fatigue strength is shown to be more sensitive to selected threshold parameters and short crack growth mechanics. Furthermore, the introduction of multiple crack initiations and interaction results in distributions of fatigue strength estimates sensitive to defect number, illustrating the importance of its inclusion as a source of fatigue scatter in LPBF produced Ti-6Al-4V parts. Overall, this study establishes areas of nuance and criticality required in the design and modelling of fatigue life unique to AM produced components.
+Keywords: Additive manufacturing; Fatigue strength; Fracture mechanics; Fatigue crack propagation; Multiple defects; Ti-6Al-4V
+
+Souvik Sahoo, Olivia Licata, Baishakhi Mazumder, Shibayan Roy,
+Novel insights on the near atomic scale spatial distributions of substitutional alloying and interstitial impurity elements in Ti-6Al-4V alloy,
+Journal of Alloys and Compounds,
+Volume 907,
+2022,
+164511,
+ISSN 0925-8388,
+https://doi.org/10.1016/j.jallcom.2022.164511.
+(https://www.sciencedirect.com/science/article/pii/S0925838822009021)
+Abstract: The present study explores the near atomic scale spatial distributions of substitutional alloying elements (aluminium and vanadium) and interstitial impurities (oxygen and carbon) in the microstructures of Ti-6Al-4V and its boron modified counterpart (Ti-6Al-4V-0.1B) alloys using transmission electron microscopy (TEM) and atom probe tomography (APT) techniques. The latter alloy possesses zero solubility of boron in α-Ti and high oxygen concentration around TiB particles. The results suggest that aluminium and vanadium atoms enrich α and β phases, respectively due to strong elemental partitioning between these phases, to an extent that the atomic scale concentrations of various elements considerably differ from the bulk compositions of the two alloys. Furthermore, oxygen atoms are preferentially distributed within the α phase where other interstitial impurities (carbon) also segregate. Substitutional aluminium atoms share an inverse interrelation with interstitial oxygen atoms while vanadium atoms reside besides the impurity-rich regions for both the alloys. The size differences for these elements (substitutional vs. interstitial) with host titanium atoms and related lattice distortion is (partially) held responsible for the atomic scale elemental distributions and the observed interrelations within the α phase. These arguments are further substantiated from DFT results previously obtained for Ti-6Al-4V alloy.
+Keywords: Ti-6Al-4V alloy; Atomic scale elemental distribution; Atom probe tomography; Substitutional alloying elements; Interstitial impurity elements
+
+Antonio Cutolo, Chola Elangeswaran, Gokula Krishna Muralidharan, Brecht Van Hooreweder,
+On the role of building orientation and surface post-processes on the fatigue life of Ti-6Al-4V coupons manufactured by laser powder bed fusion,
+Materials Science and Engineering: A,
+Volume 840,
+2022,
+142747,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2022.142747.
+(https://www.sciencedirect.com/science/article/pii/S0921509322001551)
+Abstract: Additive manufacturing (AM) techniques have been rapidly expanding due to their ability to produce complex geometries with an efficient material use. However one of the main drawback of AM technologies is the poor surface quality especially for what concerns powder based techniques. In order to design reliable AM parts, the material mechanical properties resulting from the manufacturing process need to be properly characterized. The present study investigates the fatigue of miniaturized Ti-6Al-4V specimens manufactured using laser powder bed fusion (L-PBF) along three different building orientations. In order to improve the surface quality, two post-treatments were applied to the test coupons, i.e. electro-plasma polishing and machining. Fatigue test results highlight how the post-treatments improve the fatigue properties of L-PBF Ti-6Al-4V samples with machined samples outperforming all the others conditions. Data gathered from the experimental campaign have been used to generate a predictive tool to account for surface quality, that can be used to foresee fatigue properties of Ti-6Al-4V samples subjected to different surface treatments.
+Keywords: Laser powder bed fusion; Ti-6Al-4V; Fatigue; Surface treatments
+
+Tao Yang, Junfeng Liu, Yuan Zhuang, Dezhi Xu,
+Micro-crystallographically unraveling strength-enhanced behaviors of the heavy-thick Ti-6Al-4V welded joint,
+Materials Characterization,
+Volume 188,
+2022,
+111893,
+ISSN 1044-5803,
+https://doi.org/10.1016/j.matchar.2022.111893.
+(https://www.sciencedirect.com/science/article/pii/S1044580322001759)
+Abstract: Developing high-strength welded joint of heavy-thick titanium alloy plates is in immediate need to unravel the strength-enhanced behaviors for high-pressure and low-temperature performance of deep-sea submersibles. Here, we synergistically employed transmission electron microscope (TEM) and electron back-scattered diffraction (EBSD) technologies to micro-crystallographically unravel the evolution behaviors of weld microstructure, grain orientation and grain boundaries for the welded joint of the heavy-thick Ti-6Al-4V plates with the thickness of up to 60 mm. Resulted, the strength-enhanced welded joint was evidently ascribed to the transformation of lath martensite into basketweave-martensite and the rigid-flexible mixture strategy of the enhanced conical-texture and the weakened basal-texture and cylindrical-texture. Furthermore, the remarkably lowered geometrically necessary dislocations (GNDs) density and the greatly decreased deformation-prone grains number due to the transformation of low-into-high angle grain boundaries indispensably strengthened the joint strength. Therefore, this work has made clear the strength-enhanced behaviors of Ti-6Al-4V welded joints for substantially improving high-strength welded structure of heavy-thick titanium alloy plates, and sufficiently promoting the service safety for deep-sea submersibles.
+Keywords: Ti-6Al-4V alloy; Heavy-thick welded joint; Strengthening mechanism
+
+Qin Sun, Ludong Yang, Wanchun Yang, Hongjun Ji, Mingyu Li, Yufeng Li,
+Microstructure evolution and bonding mechanism of ZrO2 ceramic and Ti-6Al-4V alloy joints brazed by Bi2O3-B2O3-ZnO glass paste,
+Journal of the European Ceramic Society,
+Volume 42, Issue 13,
+2022,
+Pages 5953-5963,
+ISSN 0955-2219,
+https://doi.org/10.1016/j.jeurceramsoc.2022.06.016.
+(https://www.sciencedirect.com/science/article/pii/S0955221922004629)
+Abstract: Ceramics and metal joinings have been widely employed in aerospace, dental implants, and the electronic packaging industry for fabricating multifunctional components. In this study, the 35Bi2O3-50B2O3-15ZnO (mol.%) glass has been employed for joining the ZrO2 ceramic and Ti-6Al-4V alloy. The effect of brazing temperature on the microstructure evolution, mechanical properties, and bonding mechanism of brazed joints has been analyzed. The microstructure of the ZrO2/glass/Ti-6Al-4V joints and the content of Bi4B2O9, Bi2O3 and Bi24B2O39 precipitated crystals in glass were found to be dependent on the brazing temperature. The reaction product of Bi4Ti3O12 was identified in the glass/Ti-6Al-4V interface because of the chemical reaction between the oxidized layer of Ti-6Al-4V alloy and glass. A maximum shear strength as high as 48.8 ± 5.2 MPa was obtained. Our work, thus, demonstrates that the 35Bi2O3-50B2O3-15ZnO glass is an effective bonding material for joining ZrO2 ceramic and Ti-6Al-4V alloy under low temperature in an ambient atmosphere.
+Keywords: Joining; ZrO2 ceramic; Ti-6Al-4V alloy; Bi2O3–B2O3–ZnO glass; Low temperature melting
+
+Alok Gupta, Chris J. Bennett, Wei Sun,
+High cycle fatigue performance evaluation of a laser powder bed fusion manufactured Ti-6Al-4V bracket for aero-engine applications,
+Engineering Failure Analysis,
+Volume 140,
+2022,
+106494,
+ISSN 1350-6307,
+https://doi.org/10.1016/j.engfailanal.2022.106494.
+(https://www.sciencedirect.com/science/article/pii/S135063072200468X)
+Abstract: Due to the stringent certification requirements and complex engine operating environment, the design of AM components for aero-engine application remains a challenging task. The high cycle fatigue performance of a weight-optimised bracket made using the Laser Powder Bed Fusion (LPBF) process was studied through shaker table testing. The results are discussed together with the observed mechanical and fatigue strengths in conjunction with material characterisation of microstructure, surface roughness, defects, micro-hardness and fracture surfaces. The debits in mechanical and fatigue strengths are expected due to process dependent surface roughness and the density of defects present. From the shaker table test results, it was concluded that the proposed weight-optimised LPBF bracket is capable of meeting the performance targets. The fundamental vibration mode of the bracket assembly was 84 Hz, which was much higher than the 1st Low Pressure shaft speed (48 Hz) of the target engine and thus avoids potential resonance. The bracket achieved its target inertial g load capability of 20 g and it was demonstrated that the bracket had enough redundancy in its load transfer paths should a strut fail during service of the engine. Lack of fusion voids and micro-cracks present on or near the surface were the prime sites for crack initiation. It has been shown that the as-built surface can cause a significant reduction (up to 40%) in the fatigue strength when compared to machined Ti-6Al-4V. A safe life regime for LPBF component design has been presented based on the Kitagawa-Takahasi diagram, modified using the Chapetti curve, which effectively links the material fatigue properties and performance of LPBF parts with intrinsic defects.
+Keywords: Laser powder bed fusion; High cycle fatigue; g load capability; Vibration mode; Failure mechanism
+
+L. Romero-Resendiz, M.C. Rossi, A. Álvarez, A. García-García, L. Milián, M.Á. Tormo-Más, V. Amigó-Borrás,
+Microstructural, mechanical, electrochemical, and biological studies of an electron beam melted Ti-6Al-4V alloy,
+Materials Today Communications,
+Volume 31,
+2022,
+103337,
+ISSN 2352-4928,
+https://doi.org/10.1016/j.mtcomm.2022.103337.
+(https://www.sciencedirect.com/science/article/pii/S2352492822002082)
+Abstract: This work studied the feasibility of an electron beam melting (EBM) Ti-6Al-4V alloy as a biomaterial for implants. Comparisons were made with a wrought forged Ti-6Al-4V alloy. The objective of this work was a detailed description of the microstructural and surface roughness effects on mechanical, electrochemical, and in-vivo biological performances. The EBMed condition showed higher mechanical properties, as well as higher electrochemical and ion release rates. These results were mainly influenced by the lamellar grain morphology and complex crystallographic texture of the EBMed alloy compared to the forged one. The higher area average roughness of the EBMed condition boosted the adhesion, proliferation, and biofilm formation of osteosarcoma (MG63), Staphylococcus epidermidis (S. epidermidis), and Staphylococcus aureus (S. aureus). The mechanical, ion release, corrosion, and in-vivo biological results in both studied conditions met the requirements for orthopedic and dental biomaterials. However, the forged condition is more recommended for patients with clinic stories related to S. epidermidis and S. aureus illnesses.
+Keywords: Ti-6Al-4V; Texture; Ion release; Corrosion; Cytotoxicity; Cell proliferation
+
+Yanhua Guo, Jiaqiang Huang, Kui Yu, Guoqing Dai, Zhonggang Sun, Hui Chang,
+Effect of the Ti-6Al-4V powder size on the microstructure and mechanical properties of composites with nickel-coated graphene nanoflakes,
+Materials Characterization,
+Volume 184,
+2022,
+111627,
+ISSN 1044-5803,
+https://doi.org/10.1016/j.matchar.2021.111627.
+(https://www.sciencedirect.com/science/article/pii/S104458032100749X)
+Abstract: In this study, 0.5 wt% Ni-P@GNF/ Ti-6Al-4V composites with different particle sizes (0–25, 15–53 and 53–150 μm) were fabricated via chemical nickel plating and speak plasma sintering. The plasma sintering temperature and the sintering pressure were 900 °C and 50 MPa, respectively. The microstructure and mechanical properties of the three composites were investigated via optical microscopy, scanning electron microscopy, energy dispersive X-ray spectroscopy and compression experiments. The results showed that the microstructures of the composites were refined, and the compressive strength of the Ti-6Al-4V incorporated with graphene nanosheets was higher than that of the pure Ti-6Al-4V. Herein, with 0–25 μm Ti-6Al-4V powder, the compressive strength of 0.5 wt% Ni-P@GNFs/TC4 composite reaches 1339 MPa, which was an increase of 37.91% versus Ti-6Al-4V alloy (970 MPa). Moreover, with increasing spherical powder particle size, the size of the reinforcing phase of the network structure was coarser, and the plasticity was improved.
+Keywords: Titanium matrix composites; Graphene; Spark plasma sintering; Mechanical properties; Electroless nickel plating
+
+Michael A. Kurtz, Piyush Khullar, Jeremy L. Gilbert,
+Cathodic activation and inflammatory species are critical to simulating in vivo Ti-6Al-4V selective dissolution,
+Acta Biomaterialia,
+Volume 149,
+2022,
+Pages 399-409,
+ISSN 1742-7061,
+https://doi.org/10.1016/j.actbio.2022.07.020.
+(https://www.sciencedirect.com/science/article/pii/S1742706122004147)
+Abstract: In vivo retrievals of metallic orthopedic implants have shown selective dissolution of Ti-6Al-4V, where the vanadium-rich β phase preferentially corrodes from the surface. This damage, typically observed in crevices, is not directly caused by wear mechanics and the underlying electrochemical mechanism remains poorly understood. Previous studies show that fretting corrosion can cause negative potential drops, resulting in a decrease in surface oxide passivation resistance and the electrochemical generation of reactive oxygen species (ROS) at metallic surfaces. In this study, we combine cathodic activation and hydrogen peroxide to induce selective dissolution in vitro. After a 600 s -1 V hold and 4 h recovery in 20 °C 1 M H2O2 solution, the Ti-6Al-4V β phase was preferentially dissolved. An initial activation threshold of -0.5 V induced a significant increase in β dissolution (p = 0.000). Above this threshold, little selective dissolution occurred. In an Arrhenius-like fashion, decreasing solution concentration to 0.1 M required 72 h to generate β dissolution instead of 4 h at 1 M. Heating 0.1 M solution to body temperature (37 °C) resulted in a decrease in the time needed to replicate a similar level of β dissolution (>90%). Electrochemical impedance shows that both cathodic activation and inflammatory species are necessary to induce selective dissolution, where the combinatorial effect causes a significant drop in oxide passivation resistance from 106 to 102 (p = 0.000).
+Statement of significance
+Though hip arthroplasties are considered a successful procedure, revision rates of 2–4% result in tens of thousands of additional surgeries within the United States, subjecting patients to increased risk of complications. Corrosion is associated with implant failure and retrieval studies show that titanium and its alloys can severely corrode in vivo in ways not yet duplicated in vitro. Here, we reproduce selective dissolution of Ti-6Al-4V β phase simulating key characteristics of in vivo degradation observed in orthopedic retrievals. We establish both cathodically activated corrosion, a relatively unexplored concept, and the presence of inflammatory species as prerequisites, furthering our understanding of this clinically relevant damage mode. We introduce an Arrhenius-based approach to assess the concentration-temperature-time interactions present.
+Keywords: Ti-6Al-4V; Selective dissolution; In vitro model; Metallic biomaterials; Cathodically activated corrosion
+
+Jianwen Wu, Zhenmin Wang, Sanbao Lin, Zhengchao Xie, Mengjia Xu, Jiyu Tian, Chunfu Guo,
+Effect of fast-frequency pulsed waveforms on the microstructure and mechanical properties of Ti–6Al–4V alloy welded by FFP-TIG,
+Journal of Materials Research and Technology,
+Volume 20,
+2022,
+Pages 516-531,
+ISSN 2238-7854,
+https://doi.org/10.1016/j.jmrt.2022.07.126.
+(https://www.sciencedirect.com/science/article/pii/S2238785422011656)
+Abstract: Ti–6Al–4V alloys have been widely adopted because of their good mechanical properties. TIG welding is a common method for Ti–6Al–4V alloys. However, the high heat input of conventional TIG can lead to a coarsening of grains within Ti–6Al–4V and thus a weaker Ti–6Al–4V weld. This study presents a novel fast-frequency pulsed tungsten inert gas (FFP-TIG) welding technology to fabricate a high-reliability Ti–6Al–4V weld. The effects of fast-frequency pulsed waveforms on microstructures and mechanical properties of Ti–6Al–4V weld samples were uncovered. The arc core diameter of FFP-TIG technology was reduced by 32%–36% compared with that of conventional TIG. The adoption of FFP-TIG decreased the average grain sizes and acicular martensite α′ within the Ti–6Al–4V weld by 47.7% and 40.5%, respectively, which further enhanced the mechanical properties of the corresponding weldments. The hardness, tensile strength, and elongation of Ti–6Al–4V weldments obtained by FFP-TIG were improved by 10.35%, 13.84%, and 304.61% compared with those obtained by conventional TIG, achieving the highest value of 373 HV, 1018.97 MPa, and 4.301%, respectively. This study provides fresh insight into the development and application of high-reliability titanium alloy weldments commonly used in the aviation industry.
+Keywords: Fast-frequency pulsed waveform; FFP-TIG; Ti–6Al–4V; Grain refinement
+
+Lei Zhang, Chen Ding, Yanjun Han, Zhirui Zhang, Cheng Fan,
+Investigation into a novel pulsating cavitation air jet polishing method for Ti-6Al-4V alloy,
+Tribology International,
+Volume 175,
+2022,
+107837,
+ISSN 0301-679X,
+https://doi.org/10.1016/j.triboint.2022.107837.
+(https://www.sciencedirect.com/science/article/pii/S0301679X22004091)
+Abstract: This paper investigated the polishing of Ti-6Al-4V alloy by a novel pulsating cavitation air jet polishing (PCAJP) process. The principle of PCAJP is that the nozzle of the air jet and the workpiece are completely immersed in the prepared abrasive fluid with a certain concentration, and the pressurized air jet is spurted through the nozzle to drive the movement of the abrasive fluid near the workpiece. Due to the combined action of abrasive particles and microbubble cavitation effects, high material removal rate and surface quality can be obtained. In this paper, a PCAJP system was developed. The optimization of the main process parameters was carried out and the final roughness of Ti-6Al-4V specimens reached Ra 0.096 µm from the initial Ra 1.2 µm.
+Keywords: Pulsating cavitation air jet polishing; Abrasive particle; Roughness; Titanium alloy
+
+Nicholas Derimow, Alejandro Romero, Aldo Rubio, Cesar Terrazas, Newell Moser, Orion L. Kafka, Jake T. Benzing, Francisco Medina, Ryan Wicker, Nikolas Hrabe,
+Assessment of intra-build variations in tensile strength in electron beam powder-bed fusion Ti–6AL–4V part 1: Effects of build height,
+Materials Science and Engineering: A,
+Volume 849,
+2022,
+143354,
+ISSN 0921-5093,
+https://doi.org/10.1016/j.msea.2022.143354.
+(https://www.sciencedirect.com/science/article/pii/S0921509322007481)
+Abstract: In this work, rectangular blocks of electron beam powder-bed fusion (PBF-EB) additively manufactured (AM) Ti–6Al–4V were built, such that a total of 68 mini-tensile test coupons could be extracted for mechanical testing over a range of build height and build plate locations. These as-built tensile test coupons were uniaxially tested to fracture and subsequently studied via scanning electron microscopy, micro X-ray computed tomography, and inert gas fusion chemical analysis to systematically study the intra-build variations in tensile properties, microstructure, porosity, and chemistry. A strong correlation was observed between YS and build height, where YS was observed to decrease with increasing build height, up to 35 mm. There were no significant contributions to this variation in yield strength (YS) from build location, porosity, grain size, or crystallographic texture. Inert gas fusion oxygen measurements reveal the same trend, suggesting that oxygen content variation as a function of build height is contributing to the observed YS variation. The source of the oxygen content variation is thought to be a transient source of oxygen, such as moisture in the powder and build chamber. The establishment of this oxygen variation and its correlation to tensile properties motivates and facilitates improvements to PBF-EB Ti–6Al–4V processing, including powder mixing and handling.
+Keywords: Additive manufacturing; Ti–6Al–4V; Oxidation; Tensile properties; Electron beam powder-bed fusion
+
+Svetlana A. Shalnova, Marina O. Gushchina, Darya A. Strekalovskaya, Ekaterina L. Alekseeva, Olga G. Klimova-Korsmik,
+Electrochemical properties of the heat-treated Ti-6Al-4V alloy manufactured by direct energy deposition,
+Journal of Alloys and Compounds,
+Volume 899,
+2022,
+163226,
+ISSN 0925-8388,
+https://doi.org/10.1016/j.jallcom.2021.163226.
+(https://www.sciencedirect.com/science/article/pii/S0925838821046363)
+Abstract: Additive technologies are actively implemented in various industries. The actual task is a complex study of the properties of the products. In the present work, electrochemical studies of the heat-treated Ti-6Al-4V alloy manufactured by Direct Energy Deposition were carried out to determine the evolution of electrochemical and mechanical properties. The analysis of the structure and phase composition were compared with the results of electrochemical and mechanical properties. The effect of the lamellae size and phase composition on corrosion and mechanical properties is more pronounced for the DED Ti-6Al-4V alloy. It was determined that the best electrochemical properties are possessed by a heat treated sample at 800 °C. With an increase the temperature of the heat treatment up to 900 °C, the corrosion resistance decreases, however, the values of relative elongation increase.
+Keywords: Electrochemical properties; Additive technologies; Direct energy deposition; Ti-6Al-4V; Titanium alloys; Corrosion resistance
+
+Jay Airao, Chandrakant K. Nirala,
+Machinability of Ti-6Al-4V and Nimonic-90 in ultrasonic-assisted turning under sustainable cutting fluid,
+Materials Today: Proceedings,
+Volume 62, Part 14,
+2022,
+Pages 7396-7400,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2022.02.312.
+(https://www.sciencedirect.com/science/article/pii/S2214785322009464)
+Abstract: Issues related to the machinability of hard-to-cut materials such as Titanium and Nickel base superalloy are well studied in past. This article attempts a comparative machinability study of Ti-6Al-4V and Nimonic-90 using conventional and ultrasonic-assisted turning . The ultrasonic-assisted and conventional turning for both the materials are performed under dry and sustainable cutting fluid , i.e., vegetable oil-based cutting fluid, keeping all the process parameters constant. Canola oil is used as vegetable oil. The machinability in terms of power consumption and tool life is analyzed. The ultrasonic-assisted turning under sustainable cutting fluid significantly reduces the power consumption and improves the tool life for both the materials. Comparing the machinability of both the materials, Ti-6Al-4V exhibits higher machinability than Nimonic-90. The sustainable cutting fluid leads to promote sustainability in the machining of Ti-6Al-4V and Nimonic-90.
+Keywords: Ti-6Al-4V; Nimonic-90; Ultrasonic assisted turning; Machinability
+
+Aroa Álvarez-López, Luis Colchero, Manuel Elices, Gustavo V. Guinea, José Pérez-Rigueiro, Daniel González-Nieto,
+Improved cell adhesion to activated vapor silanization-biofunctionalized Ti-6Al-4V surfaces with ECM-derived oligopeptides,
+Biomaterials Advances,
+Volume 133,
+2022,
+112614,
+ISSN 2772-9508,
+https://doi.org/10.1016/j.msec.2021.112614.
+(https://www.sciencedirect.com/science/article/pii/S0928493121007542)
+Abstract: Titanium implants are widely used in traumatology and various orthopedic fields. Titanium and other metallic-based implants have limited structural and functional integration into the body, which translates into progressive prosthesis instability and the need for new surgical interventions that have enormous social and economic impacts. To enhance the biocompatibility of titanium implants, numerous biofunctionalization strategies have been developed. However, the problem persists, as more than 70% of implant failures are due to aseptic loosening. In this study we addressed the problem of improving the physiological engraftability and acceptability of titanium-based implants by applying a robust and versatile functionalization method based on the covalent immobilization of extracellular matrix (ECM)-derived oligopeptides on Ti-6Al-4V surfaces treated by activated vapor silanization (AVS). The feasibility of this technique was evaluated with two oligopeptides of different structures and compositions. These oligopeptides were immobilized on Ti-6Al-4V substrates by a combination of AVS and N-(3-dimethylaminopropyl)-N′-ethylcarbodiimide hydrochloride/N-hydroxysuccinimide (EDC/NHS) crosslinking chemistry. The immobilization was shown to be stable and resistant to chemical denaturing upon sodium dodecyl sulfate treatment. On Ti-6Al-4V surfaces both peptides increased the attachment, spreading, rearrangement and directional growth of mesenchymal stem and progenitor cells (MSC) with chondro- and osteo-regenerative capacities. We also found that this biofunctionalization method (AVS-EDC/NHS) increased the attachment capacity of an immortalized cell line of neural origin with poor adhesive properties, highlighting the versatility and robustness of this method in terms of potential oligopeptides that may be used, and cell lineages whose anchorage to the biomaterial may be enhanced. Collectively, this novel functionalization strategy can accelerate the development of advanced peptide-functionalized metallic surfaces, which, in combination with host or exogenously implanted stem cells, have the potential to positively affect the osteoregenerative and osteointegrative abilities of metallic-based prostheses.
+Keywords: Biomaterials; Activated vapor silanization; Titanium; Prosthesis; Nanoparticles; Biofunctionalization
+
+Rui Fu, Liang Zheng, Chao Ling, Zheng Zhong, Youshi Hong,
+An experimental investigation of fatigue performance and crack initiation characteristics for an SLMed Ti-6Al-4V under different stress ratios up to very-high-cycle regime,
+International Journal of Fatigue,
+Volume 164,
+2022,
+107119,
+ISSN 0142-1123,
+https://doi.org/10.1016/j.ijfatigue.2022.107119.
+(https://www.sciencedirect.com/science/article/pii/S0142112322003759)
+Abstract: The fatigue behavior of SLMed Ti-6Al-4V has been intensively investigated in recent years. However, the effect of stress ratio has not been comprehensively studied, especially in VHCF regime. In this paper, the fatigue performance and crack initiation characteristics up to VHCF regime for an SLMed Ti-6Al-4V at various stress ratios (R = −1, −0.5, 0.1 and 0.5) were investigated and the effects of stress ratio were substantially discussed. The stress amplitude decreases with the increase of stress ratio with the order of: σa (R = −1) > σa (R = −0.5) > σa (R = 0.1) > σa (R = 0.5). Internal crack initiation is dominant in HCF and VHCF regimes under the four stress ratios, although surface crack initiation rarely occurs in HCF regime at R =  −1 and 0.5. Whether the crack initiates from subsurface or from interior is affected by the applied maximum stress, and the crack initiation is in relation not only to defect size but also to defect location. The nanograins in RA are evidently formed in VHCF regime at R = −1, −0.5 and 0.1, but not at R = 0.5, which is well explained by the NCP model.
+Keywords: Selective laser melting; Ti-6Al-4V; Very-high-cycle fatigue; Crack initiation; Stress intensity factor
+
+Manami Mori, Kenta Yamanaka, Yusuke Onuki, Shigeo Sato, Akihiko Chiba,
+Analysis of hierarchical microstructural evolution in electron beam powder bed fusion Ti–6Al–4V alloys via time-of-flight neutron diffraction,
+Additive Manufacturing Letters,
+Volume 3,
+2022,
+100053,
+ISSN 2772-3690,
+https://doi.org/10.1016/j.addlet.2022.100053.
+(https://www.sciencedirect.com/science/article/pii/S2772369022000275)
+Abstract: Ti–6Al–4V alloys prepared via electron beam powder bed fusion (EB-PBF) generally exhibit a hierarchical microstructure consisting of columnar β-grains, an acicular α-matrix, and nanoscale β-precipitates at α-lath interfaces. In this study, we performed time-of-flight neutron diffraction measurements to investigate the texture and volume fraction of EB-PBF Ti–6Al–4V alloys via Rietveld texture analysis (RTA). The high-intensity neutron source enabled the analysis of the nanosized β-phase precipitates at the α-lath interfaces. The results indicate that the α- and β-textures of the as-built specimen can be ascribed to multiple Burgers orientation relationships among the prior β-phase, α-laths, and nanosized β-phase precipitates, which are not clearly understood. The as-built texture was maintained during post-processing, suggesting that texture manipulation in EB-PBF fabrication is important for controlling the crystallographic orientations of the built components, even after post-processing. RTA allowed a precise quantification of the β-phase fraction, which was found to have increased in post-processed specimens. The results would contribute to a comprehensive understanding of the microstructural evolution of such alloys, which is vital for the modeling and optimization of alloy performance.
+Keywords: Electron beam powder bed fusion; Ti–6Al–4V alloy; Time-of-flight neutron diffraction; Rietveld texture analysis; Burgers orientation relationship; Phase fraction
+
+M. Cabrini, A. Carrozza, S. Lorenzi, T. Pastore, C. Testa, D. Manfredi, P. Fino, F. Scenini,
+Influence of surface finishing and heat treatments on the corrosion resistance of LPBF-produced Ti-6Al-4V alloy for biomedical applications,
+Journal of Materials Processing Technology,
+Volume 308,
+2022,
+117730,
+ISSN 0924-0136,
+https://doi.org/10.1016/j.jmatprotec.2022.117730.
+(https://www.sciencedirect.com/science/article/pii/S0924013622002412)
+Abstract: Additive manufacturing (AM) technologies are gaining increasing attraction for biomedical applications due to the granted customizability and optimal surface topography for osteointegration. Ti-6Al-4V is one of the most promising materials due to its biocompatibility. However, excessive ions release can occur, leading to a relevant immunologic response in the surrounding tissues. Despite the corrosion behavior of the conventionally-manufactured material being well known, it should be assessed for AM-processed components, as the effect of the unique superficial and microstructural features granted by the process is still quite unknown. The aim of this paper is the electrochemical evaluation of the passive current density of the laser powder bed fusion (LPBF)-processed Ti-6Al-4V alloy via potentiostatic tests, carried out at typical in-service potentials for biomedical implants. This parameter is correlated with the ion release rate of the alloy, a fundamental phenomenon to address to prevent possible inflammations caused by the implant. Different manufacturing conditions (surface finishing, heat treatment) and exposure time (0, 60 and 6000 h) were considered. The importance of performing these measurements over a long period (> 8 months) was demonstrated. In fact, despite the initial current densities being significantly affected by the surface and microstructural differences, the ion release rates converged for long-time exposures. The results also underlined the good corrosion resistance of the material. Poor corrosion performances, alongside with significant current densities development, were observed in the as-built condition. A pickling treatment demonstrated to mitigate such effect without compromising the unique surface finishing granted by the manufacturing technology.
+Keywords: Additive manufacturing; Titanium; Ions release; Biocompatibility; Passive current
+
+Yangyu He, Zhaohui Zhang, Suyuan Yang, Hongke Wang, Xingwang Cheng, Luojing Liu, Xiaotong Jia,
+Deformation and fracture mechanism of Ti-6Al-4V target at high and hyper velocity impact,
+International Journal of Impact Engineering,
+Volume 169,
+2022,
+104312,
+ISSN 0734-743X,
+https://doi.org/10.1016/j.ijimpeng.2022.104312.
+(https://www.sciencedirect.com/science/article/pii/S0734743X22001579)
+Abstract: This paper studies the deformation and fracture mechanism of Ti-6Al-4V titanium under high velocity (970 m/s and 1590 m/s) and hypervelocity (2240 m/s) impacts. For the Ti-6Al-4V target, as the impact velocity increases, the volume of the crater increases, and the shape of the crater gradually changes from a shallow dish shape to a hemispherical shape. After impact at 970 m/s, dislocation slip and twining occur in the crater, forming a large number of dislocation cells and {10-12} tensile twins; several adiabatic shear bands (ASBs) are formed in the crater, and the grains inside the ASBs are severely elongated with few microvoids. After impact at 1590 m/s, the overall deformation degree of the crater increases, in addition, {11-22} compression twins are formed in some deformed grains and recrystallization occurs in some ASBs. When the impact velocity reaches hypervelocity (2240 m/s), in addition to the deformation characteristic above, FCC twins and martensitic transformation also occur in the crater, and the number of ASBs increases significantly, many microvoids are generated and connected to form macrocracks in ASBs; meanwhile, a few spallation cracks are also formed in the crater. The calculation results show that the recrystallization mechanism in the ASB is subgrain rotational dynamic recrystallization.
+Keywords: Ti-6Al-4V titanium alloy; Hypervelocity impact; Martensitic transformation; FCC twins; Rotational dynamic recrystallization
+
+M.Z. Ge, Y. Tang, Y.K. Zhang, Y. Wang,
+Enhancement in fatigue property of Ti-6Al-4V alloy remanufactured by combined laser cladding and laser shock peening processes,
+Surface and Coatings Technology,
+Volume 444,
+2022,
+128671,
+ISSN 0257-8972,
+https://doi.org/10.1016/j.surfcoat.2022.128671.
+(https://www.sciencedirect.com/science/article/pii/S0257897222005928)
+Abstract: To improve the fatigue performance of remanufactured Ti-6Al-4V alloy, the combined laser cladding and laser shock peening(LSP) processes, as an anti-fatigue remanufacturing method, was adopted to restore the geometric shape of the simulated damaged samples and modify surface integrities of the repaired region. Microstructure variation, residual stress distribution, fatigue crack propogation rate and fracture morphology of Ti-6Al-4V alloy samples were examined before and after anti-fatigue remanufacturing. The results indicated that the laser cladding repaired component evolved gradually from equiaxed α and a small amount of β in the repaired substrate to typical Widmanstätten structure with fine acicular α and α + β basket weave in the repaired region. In anti-fatigue remanufactured zone, no new crystalline phase was created, β and α phases were refined obviously, high-density dislocations and abundant nanotwins with thickness of 10 to 30 nm were generated, and residual tensile stress was converted into compressive stress with the affected depth of about 900 μm. After anti-fatigue remanufacturing, the mean fatigue life of Ti-6Al-4V alloy samples was 2.64 times that of the matrix samples. A new method for calculating crack growth rate considering experimental uncertainty was presented. The fatigue crack propagation rate of Ti-6Al-4V specimens after anti-fatigue remanufacturing was significantly smaller than that of substrate samples, which was primarily attributed to the combined effects of Widmanstätten structure produced by laser cladding and LSP-induced favourable microstructural modification and the removing of tensile residual stress in the laser-clad repaired region.
+Keywords: Laser shock peening; Laser cladding repair; Ti-6Al-4V alloy; Fatigue property
+
+Xinjiang Liao, Zhuo Liu, Ruixiang Liu, Dekui Mu,
+Microstructure evolution and joining strength of diamond brazed on Ti-6Al-4V substrates using Ti-free eutectic Ag-Cu filler alloy,
+Diamond and Related Materials,
+Volume 127,
+2022,
+109198,
+ISSN 0925-9635,
+https://doi.org/10.1016/j.diamond.2022.109198.
+(https://www.sciencedirect.com/science/article/pii/S0925963522003806)
+Abstract: In this study, strong bonding of vacuum brazed synthetic diamond and Ti-6Al-4V substrates joints was achieved using a Ti-free eutectic AgCu filler alloy. It was found that the brazing temperature remarkably influenced the interfacial microstructures, and hence affected the bonding strength of brazed diamond joints. Thermodynamic calculation and TEM microstructural characterization revealed that the rapid adsorption and dissolution of Ti in molten filler alloy is responsible for the preferential precipitation of TiCu and/or Ti2Cu IMCs on the brazed diamond surface and the excessive formation of TiCu IMCs, which largely impaired the bonding strength of brazed Ti-6Al-4V/diamond joints. An evolution model exploring the microstructure and mechanical properties of the brazed joints on Ti-6Al-4V substrates was proposed, by taking the behavior of Ti adsorption into account. The underlying mechanism to gain a reliable bonding between Ti-6Al-4V substrate and diamond in this work is therefore of essential implications for the understanding of microstructure and bonding strength of other hard-to-wet materials on Ti-based substrates.
+Keywords: Bonding strength; Ti-free filler alloy; Brazing; Diamond; Ti-6Al-4V alloy
+
+Mingfang Xu, Yuhua Chen, Timing Zhang, Jilin Xie, Shanlin Wang, Limeng Yin, Peng He,
+Microstructure evolution and mechanical properties of wrought/wire arc additive manufactured Ti-6Al-4V joints by electron beam welding,
+Materials Characterization,
+Volume 190,
+2022,
+112090,
+ISSN 1044-5803,
+https://doi.org/10.1016/j.matchar.2022.112090.
+(https://www.sciencedirect.com/science/article/pii/S1044580322003722)
+Abstract: Wrought-additive hybrid manufacturing technology effectively combines the advantages of high efficiency of traditional manufacturing and high flexibility of additive manufacturing technology. Mechanical Properties of welded joints is the key to evaluate the performance of parts. In this study, the wire and arc additive manufacturing (WAAM) Ti-6Al-4V alloy was successfully connected with the wrought Ti-6Al-4V plate by electron beam welding (EBW). The effect of welding direction on microstructure and tensile properties of welded joints was studied. The results show that a large amount of needle martensite α’ phases exists in the joint due to the rapid cooling rate. The mechanical properties tests show that compared with the Wrought + SD (Scanning direction) sample, the Wrought + BD (Building direction) sample has higher tensile strength, but lower elongation. All samples fractured at the WAAMed Ti-6Al-4V side, which was related to the initial state of the WAAMed Ti-6Al-4V sample. The experiment also explored the fracture mechanism by TEM, which involved the nucleation, growth of cracks caused by vertical dislocation accumulation at the α/α’ phase interface, and occurrence of the displacement of the α (or α’)/β phase interface caused by the parallel dislocations.
+Keywords: Electron beam welding; Wire and arc additive manufacturing; Ti-6Al-4V; Microstructure; Mechanical properties
+
+J. Chen, D. Fabijanic, T. Zhang, E.W. Lui, M. Brandt, W. Xu,
+Deciphering the transformation pathway in laser powder-bed fusion additive manufacturing of Ti-6Al-4V alloy,
+Additive Manufacturing,
+Volume 58,
+2022,
+103041,
+ISSN 2214-8604,
+https://doi.org/10.1016/j.addma.2022.103041.
+(https://www.sciencedirect.com/science/article/pii/S221486042200433X)
+Abstract: The nature of rapid cyclic heating and cooling in metal additive manufacturing poses a great challenge in the control of microstructure while a metallic part is being built. With metastable α′ martensites commonly present in a columnar prior-β grain structure, Ti-6Al-4V alloy made by laser powder-bed fusion additive manufacturing (L-PBF AM) is strong but often suffers from anisotropic mechanical behavior, inferior ductility and low fracture toughness. This drives the recent development in L-PBF process optimisation to produce ultrafine lamellar α + β microstructures directly in the as-built state of Ti-6Al-4V. Currently, in-situ martensite decomposition is deemed as the transformation pathway responsible for the formation of such lamellar microstructures. However, without solid experimental evidence this consensus cannot be reached and is still in question. Here we show that, instead of martensite decomposition, a pathway of slow cooling from the β phase field at much reduced cooling rates (below 5 °C s−1) is proven to give rise to the observed lamellar α + β microstructure. This is underpinned by several microstructural “fingerprints” such as grain-boundary α (GB-α), α colony and α lath width, and crystallographic orientations of the constituent phases. The finding deepens our established wisdom in L-PBF AM and opens a new avenue for microstructural control in metal additive manufacturing.
+Keywords: Titanium alloy; Laser powder-bed fusion additive manufacturing; Microstructural evolution; Phase transformations; Thermal history
+
+Su Min Ji, Seong Min Jang, Young Seop Lee, Hee Man Kwak, Jeong Muk Choi, Man Soo Joun,
+Characterization of Ti-6Al-4V alloy in the temperature range of warm metal forming and fracture analysis of the warm capping process,
+Journal of Materials Research and Technology,
+Volume 18,
+2022,
+Pages 1590-1606,
+ISSN 2238-7854,
+https://doi.org/10.1016/j.jmrt.2022.03.066.
+(https://www.sciencedirect.com/science/article/pii/S2238785422003738)
+Abstract: The flow behavior of a Ti–6Al–4V alloy during warm forming was characterized, and the results were analyzed to reveal the causes of fracture during warm forging of a small Ti–6Al–4V alloy bolt. The experimental flow curves obtained by compression test of cylindrical specimens at the warm forming conditions were fitted by a general extended C–m model after post-processed by a high-accuracy temperature correction scheme. Finite element analyses of the compression tests were conducted at various sample temperatures and strain rates using the flow model, revealing that the predicted compression loads were consistent with the experimental results. Flow behavior was also analyzed to reveal the metallurgical and macroscopic instabilities of the Ti–6Al–4V alloy. The flow behavior, macroscopic instability indices, and predicted forming load-stroke curves of Ti–6Al–4V alloy and SCr420H alloy steel were compared. The results study revealed that fracturing of the material in the capping stage during the automatic multi-stage warm forging of the small Ti–6Al–4V alloy bolt was caused by the sharp decrease in the forming load in an unpredictably early stroke from macroscopic instability, as indicated quantitatively by its macroscopic instability index.
+Keywords: Ti–6Al–4V alloy; Flow characterization; Warm forging; General extended C–m model; Crack
+
+Zhenhua Hao, Yuhui Chen, Qinglei Zhang, Pei Wang, Yongchun Shu, Jilin He,
+Fabrication of spherical Ti-6Al-4V powder by RF plasma spheroidization combined with mechanical alloying and spray granulation,
+Advanced Powder Technology,
+Volume 33, Issue 1,
+2022,
+103379,
+ISSN 0921-8831,
+https://doi.org/10.1016/j.apt.2021.11.031.
+(https://www.sciencedirect.com/science/article/pii/S0921883121005689)
+Abstract: Spherical Ti-6Al-4V powder was produced by RF plasma spheroidization combined with mechanical alloying and spray granulation. Particle size distribution, morphology, specific surface area, apparent density, flowability, element distribution and content of alloy powders after each stage during the process were investigated. Results show that the obtained spheroidized Ti-6Al-4V alloy powder has dense structure, good sphericity and high spheroidization ratio (98%), moderate particle size (37.8 μm) with narrow distribution. It also has excellent flowability (33.2 s· (50 g)-1) and apparent density (2.53 g·cm−3). In addition, elements distribution in the spherical Ti-6Al-4V alloy powder is uniform and most of elements content of it is within the standard of Ti-6Al-4V alloy.
+Keywords: Titanium alloy; Mechanical alloying; Spray granulation; RF plasma spheroidization; Spherical powder
+
+J. Noronha, M. Qian, M. Leary, E. Kyriakou, A. Almalki, S. Brudler, M. Brandt,
+Additive manufacturing of Ti-6Al-4V horizontal hollow struts with submillimetre wall thickness by laser powder bed fusion,
+Thin-Walled Structures,
+Volume 179,
+2022,
+109620,
+ISSN 0263-8231,
+https://doi.org/10.1016/j.tws.2022.109620.
+(https://www.sciencedirect.com/science/article/pii/S0263823122004025)
+Abstract: Efficient lattice unit cell topologies often necessitate the manufacture of unsupported horizontal struts. The fabrication of unsupported horizontal struts by laser powder bed fusion (LPBF) is inherently challenging, where the associated research data is limited for solid or dense cross-sections while no data exists for hollow struts. By examining LPBF-fabricated Ti-6Al-4V hollow struts of various diameters and wall thicknesses over increasing span lengths, a robust LPBF additive manufacturability range has been established for Ti-6Al-4V hollow struts. To achieve successful fabrication, three laser scan strategies were explored, proposed, and systematically compared. Horizontal solid struts and vertical hollow struts of equivalent diameters (and wall thickness) were similarly assessed over the same span lengths as comparators to quantify the manufacturability. This research provides previously unavailable design data, required for LPBF additive manufacturing of lattices with horizontal strut elements.
+Keywords: Hollow struts; Lattices; Additive manufacturing; Laser powder bed fusion; Scan path; Ti-6Al-4V
+
+Alexander Janda, Stefan Ebenbauer, Aude Prestl, Ingo Siller, Helmut Clemens, Petra Spoerk-Erdely,
+In-situ high-temperature EBSD characterization during a solution heat treatment of hot-rolled Ti-6Al-4V,
+Materials Characterization,
+Volume 192,
+2022,
+112207,
+ISSN 1044-5803,
+https://doi.org/10.1016/j.matchar.2022.112207.
+(https://www.sciencedirect.com/science/article/pii/S1044580322004892)
+Abstract: In the present study the spheroidization of the microstructure during a solution heat treatment of hot-rolled Ti-6Al-4V (in m.%) is investigated by means of in-situ high-temperature electron backscatter diffraction. This technique delivers phase and orientation data next to a visualization of the morphological transformation of a discrete microstructural section. A comparison based on macroscopic hardness values and the results of quasi-static tensile tests was drawn between two types of microstructures, i.e. as-rolled and equiaxed. Complementarily, X-ray diffraction and light-optical microscopy were carried out for additional phase fraction analysis. The methods applied contribute to an improved understanding of the heat treatment performed on textured Ti-6Al-4V plate material, which was produced via a mixed β/α + β hot-rolling route. Furthermore, the influence of the created texture on the mechanical properties is revealed.
+Keywords: Ti-6Al-4V; In-situ characterization; High-temperature electron backscatter diffraction; Solution heat treatment; Spheroidization
+
+Nicholas Derimow, Keenan Hanson, Newell Moser, Orion L. Kafka, Jake T. Benzing, Nikolas Hrabe,
+Surface globularization generated by standard PBF-EB Ti-6Al-4V processing achieves an improvement in fatigue performance,
+International Journal of Fatigue,
+Volume 159,
+2022,
+106810,
+ISSN 0142-1123,
+https://doi.org/10.1016/j.ijfatigue.2022.106810.
+(https://www.sciencedirect.com/science/article/pii/S0142112322000871)
+Abstract: Standard electron beam powder-bed fusion Ti-6Al-4V powder recovery and hot-isostatic pressing has been found to result in a surface layer microstructure change to globular α/β. Thickness control of this surface layer up to 15μm was demonstrated by varying powder recovery blasting working distance and duration. This surface globular layer was found to improve high-cycle rotating bending fatigue strength at 107 cycles by 60 MPa for specimens with smooth surfaces. The same trend was not observed for specimens with as-built surface roughness because globularization did not occur at dominant fatigue crack initiation sites; the roots of deep surface crevices.
+Keywords: Additive manufacturing; Ti-6Al-4V; Powder recovery; Recrystallization; Fatigue
+
+Shubhashis Dixit, Deepak Kumar, Barun Bharadwaj Dash, Satyam Suwas, Amit Bhattacharjee, S Sankaran,
+Effect of solutionizing temperature and cooling rate on phase morphology, recrystallization and texture evolution in a heat treated Ti-6Al-4V alloy having different types of microstructure,
+Journal of Alloys and Compounds,
+2022,
+166897,
+ISSN 0925-8388,
+https://doi.org/10.1016/j.jallcom.2022.166897.
+(https://www.sciencedirect.com/science/article/pii/S0925838822032881)
+Abstract: The effect of different solutionizing temperature and cooling rate on the extent of recovery, recrystallization and texture evolution in the alloy Ti-6Al-4V (Ti-64) has been investigated in different microstructural conditions. The hot rolled Ti-64 alloy was subjected to three different heat treatments in order to obtain three different microstructures, namely, lamellar (β-treatment), and equiaxed and bimodal (α/β-treatment). The heat treated alloys were characterized in terms of differences in phase fraction and phase dimension, the extent of recovery, recrystallization and texture evolution using SEM, EBSD, TEM, and XRD. The effect of heat treatment parameters on the volume fraction and grain size of primary α was more in bimodal microstructure than that of the equiaxed microstructure. The width of transformed α laths increases with increasing soaking temperature. Additionally, the extent of recovery and recrystallization of primary α was higher in equiaxed microstructure than in bimodal microstructure. The higher solutionizing temperature caused the dislocations in primary α to arrange themselves into lower energy substructures, which ultimately lead to subgrain formation. In transformed α laths, dislocations were generated due to lattice strain induced during β to α phase transformation. The rolling texture vanished gradually as the microstructure recovered and new recrystallized primary α grains grew. The newly formed recrystallized primary α grains and the majority of transformed α showed a moderate and strong prismatic texture respectively.
+Keywords: Ti-6Al-4V; Recovery; Recrystallization; LEDS; Crystallographic texture
+
+Thomas Childerhouse, Rachid M’Saoubi, Luiz Franca, Nick Weston, Pete Crawforth, Martin Jackson,
+The influence of machining induced surface integrity and residual stress on the fatigue performance of Ti-6Al-4V following polycrystalline diamond and coated cemented carbide milling,
+International Journal of Fatigue,
+Volume 163,
+2022,
+107054,
+ISSN 0142-1123,
+https://doi.org/10.1016/j.ijfatigue.2022.107054.
+(https://www.sciencedirect.com/science/article/pii/S0142112322003188)
+Abstract: Accurate fatigue life predictions of titanium alloy components requires an understanding of how the machining affected metallurgical and micro-mechanical subsurface condition influences fatigue crack nucleation and growth. This study investigates the influence of surface integrity features generated during carbide and high-speed polycrystalline diamond machining on the fatigue behaviour of coarse and fine-grained Ti-6Al-4V. Mechanically induced compressive residual stresses, promoted by higher feed rates and the larger cutting edge radii of carbide tools, have been demonstrated to provide an overriding enhancing effect on fatigue life due to crack initiation suppression and reducing the deleterious effects of microstructural deformation and surface imperfections.
+Keywords: Finish machining; Crack initiation and growth; Tool wear; Titanium alloys; Powder metallurgy
+
+Feng Zeng, Yan Li, KeXin Chen, Guang Li, Chang Liu, Lin Wang, Lei Li, Qing Qu,
+Adsorption of Candida albicans on Ti-6Al-4V surface and its corrosion effects in artificial saliva,
+Bioelectrochemistry,
+Volume 148,
+2022,
+108248,
+ISSN 1567-5394,
+https://doi.org/10.1016/j.bioelechem.2022.108248.
+(https://www.sciencedirect.com/science/article/pii/S1567539422001992)
+Abstract: In this study, the corrosion behavior and mechanism of Ti-6Al-4V in artificial saliva with Candida albicans were investigated using electrochemical and surface analysis techniques. Fluorescence microscopy (FM) and confocal laser scanning microscopy (CLSM) showed that C. albicans could easily adsorb on the surface of Ti-6Al-4V alloy to form non-dense biofilm. The non-compact biofilm provided necessary conditions for pitting corrosion on Ti-6Al-4V alloys by scanning electron microscopy (SEM) observation. The potentiodynamic polarization (PDP) curves and electrochemical impedance spectroscopy (EIS) revealed that C. albicans significantly reduced the corrosion resistance of Ti-6Al-4V alloys. The cyclic voltammetry (CV) and differential pulse voltammetry (DPV) results indicated that C. albicans biofilm promoted electron transfer from the anodic sites to cathodic depolarizer during the corrosion process, showing that the role of oral fungi must be considered when evaluating the performance of oral materials. This study may provide a new clue for evaluating the corrosion resistance of dental implant materials in the oral environment.
+Keywords: Dental material; Pitting corrosion; Candida albicans; Biofilm; Hyphae
+
+Keke Tang, Kunrong Chen, Paolo Ferro, Filippo Berto,
+Quantifying lamellar microstructural effect on the fatigue performance of bimodal Ti-6Al-4V with microdefect,
+International Journal of Fatigue,
+Volume 163,
+2022,
+107045,
+ISSN 0142-1123,
+https://doi.org/10.1016/j.ijfatigue.2022.107045.
+(https://www.sciencedirect.com/science/article/pii/S0142112322003103)
+Abstract: Fatigue performance of metal alloys is inseparably associated with heterogenous microstructure and existing microdefects. The coordinated effects of lamellar microstructure (LM) and microdefect on fatigue performance of bimodal Ti-6Al-4V is studied within the framework of CPFEM. We propose an intragrain weight integration approach able to account for intragranular accumulative deformation. Parametric accumulative difference indicator (ADI) for stress is defined to relatively quantify the lamellar microstructural effect, overcoming the limitations of experimental procedures. The results demonstrate that the increase of β lath and synchronized refinement of LM appreciably improve lamellar microstructural effect. These attributes can be applied to the material design and manufacturing of advanced metal alloys.
+Keywords: Bimodal Ti-6Al-4V; Lamellar microstructural effect; Microdefect; Fatigue performance; ADI
